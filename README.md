@@ -4,7 +4,7 @@ Simple bookmarks and notes.
 
 Formatted for long term storage (['Long site'](https://www.gwern.net/About)) and review (sorting/filtering).
 
-[Live version here](https://kormyen.github.io/memex/).
+This project is a fork from [kormyen's memex](https://github.com/kormyen/memex).
 
 ## Goals:
 
