@@ -52,16 +52,6 @@ UNDER THE SKIN: J PETERSON
   DONE : true
   REVI : false
   TAGS : society, psychology, philosophy
-  QOTE
-    > The good quote is 'The proper exchange of ideas between free individuals keeps tyranny at bay.' 
-    & ...however media centralization and widely popular material escapism distorts societal discourse.
-    > A the related quote is: '...the problem with hierarchies is that people stack up at the bottom and that they tilt toward tyranny across time'. 
-    > Fuller context: 'If you're going to values some things more than others then hierarchies are inevitable. You have to value some things more than others or you don't have anything valuable." "Like beauty or strength or something." "Or competence. ...whatever it happens to be. The ability to play the flute. It doesn't matter what it is. Obviously if you value music you are going to value some musicians more than others because some are better. So you have to value things in order to more forward in life, and you have to value things in order to have something valuable to produce. But if you play out the value in a social landscape you produce a hierarchy. The problem with producing a hierarchy is that a small number of people are going to be more successful than the majority, and a very large number of people are not going to be successful at all - at that particular thing. It's inevitable. 
-    & ...So you say "we have to put up with that because we need to pursue things of value". OK fine, so that is the right wing perspective - the hierarchies are justifiable and necessary. 
-    & The left wing perspective is 'yeah but wait a minute, the problem with hierarchies is that people stack up at the bottom and that they tilt toward tyranny across time' and that's also true. 
-    & You need that dialect in society between the right wing that says you know "we need the hierarchies and they are useful and you should be grateful for them, they structure you and give you form and provide value" 
-    & and the left that says "yeah but they exclude people, people stack up at the bottom and that is dangerous to the hierarchy itself, it means that people might not have opportunity" and you have to say yes to that (too). 
-    & The problem comes -and this is the situation we are in right now- where the radical left-ists (and this is mostly a problem that really permeates the Universities) say "Yeah but all hierarchies are just tyrannical power", it's like oh no their not. Hierarchies are based on competence in a functioning society and mostly our society functions... ...That doesn't mean that hierarchies don't tilt toward self interest and tyranny across time but that's a bad thing. Even a bad thing from a conservative perspective. There's room for the left because the poor will always be with us and the dispossessed need a voice, not least because there are talented people among the dispossessed and if they are stuck at zero everyone suffers because we don't have access to their talents. It's bad use of resources. On the right its like "no, we need the damn value hierarchies, we need to be grateful for our traditions and structures because they stop us from degenerating into chaos."'
 
 SCP FOUNDATION
   LINK : http://www.scp-wiki.net/
@@ -135,7 +125,7 @@ GWERN
 LET'S ENCRYPT
   LINK : https://letsencrypt.org/
   TYPE : tool
-  DATE : 12018-07-17
+  DATE : 12018-07-19
   DONE : true
   TAGS : code, web
   NOTE : Free encryption ssl cert
@@ -145,7 +135,7 @@ CATASTROPHE JOURNAL
   SRCE : Merveilles
   LINK : https://seths.blog/2018/07/a-catastrophe-journal/
   TYPE : article
-  DATE : 12018-07-17
+  DATE : 12018-07-19
   TAGS : philosophy, psychology
   DONE : true
 
