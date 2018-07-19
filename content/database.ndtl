@@ -1,5 +1,14 @@
 let DATABASE = `
 
+THE TWINGE OF STARTING
+  LINK : https://www.lesswrong.com/posts/9o3QBg2xJXcRCxGjS/working-hurts-less-than-procrastinating-we-fear-the-twinge
+  QOTE : "being in the middle of doing the work is usually less painful than being in the middle of procrastinating."
+  TYPE : article
+  TAGS : psychology
+  DATE : 12018-07-19
+  DONE : true
+  REVI : true
+
 NOTES ON OUTPUT
   PERS : neauoire
   SRCE : Merveilles
