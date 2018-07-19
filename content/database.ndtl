@@ -4,7 +4,7 @@ THE TWINGE OF STARTING
   LINK : https://www.lesswrong.com/posts/9o3QBg2xJXcRCxGjS/working-hurts-less-than-procrastinating-we-fear-the-twinge
   QOTE : "being in the middle of doing the work is usually less painful than being in the middle of procrastinating."
   TYPE : article
-  TAGS : psychology
+  TAGS : psychology, productivity
   DATE : 12018-07-19
   DONE : true
 
@@ -13,7 +13,7 @@ NOTES ON OUTPUT
   SRCE : Merveilles
   LINK : https://wiki.xxiivv.com/#aesthetics
   TYPE : article
-  TAGS : philosophy, design, inspiration
+  TAGS : philosophy, design, inspiration, productivity
   DATE : 12018-07-19
   DONE : true
 
@@ -33,12 +33,12 @@ MEAT
   DONE : true
   TAGS : fiction
 
-Nikita Voloboev
+NIKITA VOLOBOEV
   LINK : https://wiki.nikitavoloboev.xyz/
   TYPE : list
   DATE : 12018-07-19
   DONE : false
-  TAGS : philosophy
+  TAGS : philosophy, productivity
 
 INTERACTION DESIGN FUTURE
   LINK : http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
@@ -126,7 +126,7 @@ VULTR
   TAGS : web
   DATE : 12018-07-19
   NOTE : Web hosting
-  DONE : true
+  DONE : false
 
 GWERN
   PERS : neauoire
@@ -178,6 +178,6 @@ UNCLUTTERED GAME DESIGN
   TYPE : lecture
   DATE : 12018-07-19
   TAGS : game
-  DONE : false
-  NOTE : Using space in game design. Cites Journey.
+  DONE : true
+  NOTE : Using space in game design, be it space or time.
 `
