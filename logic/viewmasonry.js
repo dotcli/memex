@@ -208,7 +208,7 @@ function ViewMasonry()
     // QUOTE
     if (typeof value.QOTE !== 'undefined')
     {
-      entry += `<div class="quote"><i class="fas fa-comment textIcon"></i>${value.QOTE}</div>`;
+      entry += `<div class="quote"><i class="fas fa-comment textIcon"></i>${Array.isArray(value.QOTE) ? value.QOTE.join("<br>") : value.QOTE}</div>`;
     }
 
     // TERM
