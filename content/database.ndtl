@@ -201,4 +201,12 @@ UNCLUTTERED GAME DESIGN
   TAGS : game
   DONE : true
   NOTE : Using space in game design, be it space or time.
+
+STREISAND
+  LINK : https://github.com/StreisandEffect/streisand
+  TYPE : tool
+  DATE : 12018-07-23
+  TAGS : web, censorship
+  DONE : false
+  NOTE : Tool to set up VPN using own server.
 `
