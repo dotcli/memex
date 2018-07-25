@@ -230,4 +230,12 @@ STREISAND
   TAGS : web, censorship
   DONE : false
   NOTE : Tool to set up VPN using own server.
+  
+WHONIX
+  LINK : https://www.whonix.org/
+  TYPE : tool
+  DATE : 12018-07-25
+  TAGS : censorship
+  DONE : false
+  NOTE : Linux OS configured for anonymity via Tor. Works well in a VM.
 `
