@@ -6,6 +6,14 @@ let DATABASE = `
   DATE : 12018-07-26
   QOTE : 总得有更多人仰望星空。
 
+Boredom
+  TYPE : quote
+  TAGS : productivity
+  DATE : 12018-07-26
+  QOTE
+    When really bored and unmotivated, read a book.
+    When not motivated to read book, find interesting places in Shanghai and explore.
+
 ELEVR LEARNINGS IN ONE YEAR
   LINK : http://elevr.com/1-year-at-ycr/
   TYPE : article
