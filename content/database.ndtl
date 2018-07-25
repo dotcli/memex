@@ -1,5 +1,11 @@
 let DATABASE = `
 
+星空
+  TYPE : quote
+  TAGS : philosophy
+  DATE : 12018-07-26
+  QOTE : 总得有更多人仰望星空。
+
 ELEVR LEARNINGS IN ONE YEAR
   LINK : http://elevr.com/1-year-at-ycr/
   TYPE : article
