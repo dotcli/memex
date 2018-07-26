@@ -237,6 +237,14 @@ UNCLUTTERED GAME DESIGN
   DONE : true
   NOTE : Using space in game design, be it space or time.
 
+淘宝NPM镜像
+  LINK : https://www.jianshu.com/p/253cb9003411
+  TYPE : article
+  DATE : 12018-07-26
+  TAGS : web
+  DONE : true
+  NOTE : 教程是给NVM写的。NVS用户可以运行nvs remote指令添加淘宝node下载源
+
 STREISAND
   LINK : https://github.com/StreisandEffect/streisand
   TYPE : tool
