@@ -286,4 +286,12 @@ Emoji in Semantic Space
   DONE : true
   DATE : 12018-07-27
   NOTE : t-SNE to group emoji. The same technique can be used to visualize bookmarks.
+
+GIFSLAP
+  LINK : https://github.com/gridwalk/gifSlap
+  TYPE : tool
+  TAGS : VJ
+  DONE : false
+  DATE : 12018-07-27
+  PERS : Donald Hanson
 `
