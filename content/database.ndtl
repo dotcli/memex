@@ -260,4 +260,20 @@ WHONIX
   TAGS : censorship
   DONE : false
   NOTE : Linux OS configured for anonymity via Tor. Works well in a VM.
+
+t-SNE
+  LINK : https://lvdmaaten.github.io/tsne/
+  TYPE : tool
+  TAGS : machine learning, visualization
+  DONE : false
+  DATE : 12018-07-26
+  NOTE : Visualize high-dimensional data.
+
+Emoji in Semantic Space
+  LINK : https://getdango.com/postimg/semantic-space.html
+  TYPE : interactive
+  TAGS : inspiration, visualization
+  DONE : true
+  DATE : 12018-07-27
+  NOTE : t-SNE to group emoji. The same technique can be used to visualize bookmarks.
 `
