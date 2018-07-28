@@ -303,6 +303,14 @@ UX ARCHIVE
   TYPE : list
   DATE : 12018-07-27
 
+UXPIN E-BOOKS
+  LINK : https://www.uxpin.com/studio/ebooks/
+  NOTE : Free UX books
+  TAGS : UX, design
+  DONE : false
+  TYPE : list
+  DATE : 12018-07-28
+
 CADENCE & SLANG
   LINK : https://s3.amazonaws.com/f.cl.ly/items/2M2l0o1C0u253J331M06/Cadence%20%26%20Slang%20%282nd%20Edition%2C%20Chapter%201%20of%207%29.pdf?AWSAccessKeyId=AKIAJEFUZRCWSLB2QA5Q&Expires=1532710503&Signature=LGV2bUAY24%2Fp1j%2BROT73%2BO%2BDSEo%3D&response-content-disposition=attachment
   NOTE : Book on UX. This is a sample chapter.
@@ -325,4 +333,22 @@ THE HOLY MOUNTAIN (1973)
   TAGS : film
   DONE : false
   DATE : 12018-07-28
+
+MAKE IT SO
+  LINK : https://rosenfeldmedia.com/books/make-it-so/
+  NOTE : Interaction design from science fiction
+  TAGS : UX, design
+  DONE : false
+  TYPE : book
+  DATE : 12018-07-28
+
+GRIMGRAINS - TOOLS
+  LINK : http://grimgrains.com/#tools
+  SRCE : Merveilles
+  PERS : Rekka
+  TAGS : food
+  DONE : false
+  TYPE : article
+  DATE : 12018-07-28
+  NOTE : Kitchen tools for a floating home.
 `
