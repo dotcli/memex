@@ -168,6 +168,10 @@ function ViewMasonry()
       {
         entry += `<i class="fas fa-music"></i>`;
       }
+      else if (value.TYPE == 'interactive')
+      {
+        entry += `<i class="fas fa-mouse-pointer"></i>`;
+      }
        
       entry += `</div>`;
       entry += `</a>`;
@@ -355,6 +359,15 @@ function ViewMasonry()
         menuContent += `<div class="menu-item">`;
         menuContent += `<div class="count">${stats.types[ty][1]}</div>`;
         menuContent += `<i class="fas fa-music"></i>`;
+        menuContent += `</div>`;
+        menuContent += `</a>`;
+      }
+      else if (stats.types[ty][0] == 'interactive')
+      {
+        menuContent += `<a href='#type-interactive'>`;
+        menuContent += `<div class="menu-item">`;
+        menuContent += `<div class="count">${stats.types[ty][1]}</div>`;
+        menuContent += `<i class="fas fa-mouse-pointer"></i>`;
         menuContent += `</div>`;
         menuContent += `</a>`;
       }
