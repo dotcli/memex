@@ -383,4 +383,12 @@ REGEXR
   TAGS : code
   DATE : 12018-07-28
   NOTE : ReGex testing ground, explanation, and collection.
+
+STYLE2PAINTS
+  LINK : https://github.com/lllyasviel/style2paints
+  TYPE : tool
+  TAGS : machine learning, code, otaku
+  DATE : 12018-07-29
+  DONE : false
+  NOTE : Color anime-style sketches automatically, yet with great control.
 `
