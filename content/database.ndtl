@@ -84,6 +84,32 @@ NIKITA VOLOBOEV
   DONE : false
   TAGS : philosophy, productivity
 
+UNIVERSAL PAPERCLIPS
+  LINK : http://www.decisionproblem.com/paperclips/
+  TYPE : game
+  DATE : 12018-07-31
+  DONE : true
+  TAGS : web, clicker game, thought experiment
+
+RAVEN KWOK
+  LINK : http://ravenkwok.com/
+  TYPE : list
+  DATE : 12018-07-31
+  TAGS : generative, inspiration
+
+JOEL SIMON
+  LINK : http://www.joelsimon.net/
+  TYPE : list
+  DATE : 12018-07-31
+  TAGS : generative, inspiration, biology
+
+OPTIMIZATION PROGRAM
+  QOTE : "An optimization program is a tool to let you know which constraints you forgot"
+  LINK : https://www.reddit.com/r/dataisbeautiful/comments/934zar/what_happens_when_you_let_computers_optimize/e3avmwp/?context=8&depth=9
+  TYPE : quote
+  DATE : 12018-07-31
+  TAGS : philosophy, code, generative
+
 INTERACTION DESIGN FUTURE
   LINK : http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
   TYPE : article
