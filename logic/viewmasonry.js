@@ -168,6 +168,10 @@ function ViewMasonry()
       {
         entry += `<i class="fas fa-music"></i>`;
       }
+      else if (value.TYPE == 'interactive')
+      {
+        entry += `<i class="fas fa-mouse-pointer"></i>`;
+      }
        
       entry += `</div>`;
       entry += `</a>`;
@@ -190,7 +194,7 @@ function ViewMasonry()
       entry += `<div class="tags"><i class="fas fa-tag textIcon"></i>`;
       for (var i = 0; i < value.TAGS.length; i++)
       {
-        entry += `<a href=#tag-${value.TAGS[i]}>${value.TAGS[i]}</a>`;
+        entry += `<a href="#tag-${value.TAGS[i]}">${value.TAGS[i]}</a>`;
         if (i+1 != value.TAGS.length)
         {
           entry += `, `;
@@ -208,7 +212,7 @@ function ViewMasonry()
     // QUOTE
     if (typeof value.QOTE !== 'undefined')
     {
-      entry += `<div class="quote"><i class="fas fa-comment textIcon"></i>${value.QOTE}</div>`;
+      entry += `<div class="quote"><i class="fas fa-comment textIcon"></i>${Array.isArray(value.QOTE) ? value.QOTE.join("<br>") : value.QOTE}</div>`;
     }
 
     // TERM
@@ -355,6 +359,15 @@ function ViewMasonry()
         menuContent += `<div class="menu-item">`;
         menuContent += `<div class="count">${stats.types[ty][1]}</div>`;
         menuContent += `<i class="fas fa-music"></i>`;
+        menuContent += `</div>`;
+        menuContent += `</a>`;
+      }
+      else if (stats.types[ty][0] == 'interactive')
+      {
+        menuContent += `<a href='#type-interactive'>`;
+        menuContent += `<div class="menu-item">`;
+        menuContent += `<div class="count">${stats.types[ty][1]}</div>`;
+        menuContent += `<i class="fas fa-mouse-pointer"></i>`;
         menuContent += `</div>`;
         menuContent += `</a>`;
       }

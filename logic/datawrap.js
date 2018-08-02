@@ -82,7 +82,8 @@ function DataWrap()
       if (splitTarget[0] == 'tag')
       {
         // TAG
-        console.log('Display tag \'' + splitTarget[1] + '\'');
+        var tagDecoded = decodeURI(splitTarget[1]);
+        console.log('Display tag \'' + tagDecoded + '\'');
         for (i = 0; i < this.keys.length; i++) 
         { 
           let value = this.database[this.keys[i]];
@@ -90,7 +91,7 @@ function DataWrap()
           {
             for (var t = 0; t < value.TAGS.length; t++)
             {
-              if (value.TAGS[t] == splitTarget[1])
+              if (value.TAGS[t] == tagDecoded)
               {
                 tempDatabase[this.keys[i]] = this.database[this.keys[i]];
               }
@@ -101,14 +102,15 @@ function DataWrap()
       else if (splitTarget[0] == 'type')
       {
         // TYPE
-        console.log('Display type \'' + splitTarget[1] + '\'');
+        var typeDecoded = decodeURI(splitTarget[1]);
+        console.log('Display type \'' + typeDecoded + '\'');
         var tempDatabase = {}
         for (i = 0; i < this.keys.length; i++) 
         { 
           let value = this.database[this.keys[i]];
           if (typeof value.TYPE !== 'undefined')
           {
-            if (value.TYPE == splitTarget[1])
+            if (value.TYPE == typeDecoded)
             {
               tempDatabase[this.keys[i]] = this.database[this.keys[i]];
             }

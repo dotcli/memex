@@ -1,14 +1,73 @@
 let DATABASE = `
 
+星空
+  TYPE : quote
+  TAGS : philosophy
+  DATE : 12018-07-26
+  QOTE : 总得有更多人仰望星空。
+
+Boredom
+  TYPE : quote
+  TAGS : productivity
+  DATE : 12018-07-26
+  QOTE
+    When really bored and unmotivated, read a book.
+    When not motivated to read book, find interesting places in Shanghai and explore.
+
+THE TWINGE OF STARTING
+  LINK : https://www.lesswrong.com/posts/9o3QBg2xJXcRCxGjS/working-hurts-less-than-procrastinating-we-fear-the-twinge
+  QOTE : "being in the middle of doing the work is usually less painful than being in the middle of procrastinating."
+  TYPE : article
+  TAGS : psychology, productivity
+  DATE : 12018-07-19
+  DONE : true
+
+ELEVR LEARNINGS IN ONE YEAR
+  LINK : http://elevr.com/1-year-at-ycr/
+  TYPE : article
+  TAGS : design, inspiration
+  DATE : 12018-07-24
+  DONE : false
+
+CABBIBO'S VR INSIGHT
+  LINK : https://docs.google.com/document/d/1-UYCZcxKDmy5BF_-IXg1KDtwShJ5imNOch5xGPXzPr0/edit
+  TYPE : list
+  TAGS : design, inspiration
+  DATE : 12018-07-20
+  DONE : true
+  QOTE
+    > "Befriend an Architect, Industrial designer or an interior designer... They have infinitely more practice than you studying space"
+    > "Think about how you can transform that engineering into creating some piece that was never before possible, that pushes the limits of human understanding, and that moves us forward as a species."
+    > "I’ve really liked thinking about VR apps a lot like I think of ‘travel’. You go to this new place, learn a bunch of new things, have a bunch of fun, reminisce a lot, maybe have an existential crisis."
+    > "In all mediums it’s the constraints that define it"
+    > "Let's get weird with this new medium, spreading out our tendrils out into the majestic new possibility space until we find the places that are *truly* compelling, that let us as humans understand more about the universe around us, and help us discover more of our magical reality."
+
 NOTES ON OUTPUT
   PERS : neauoire
   SRCE : Merveilles
   LINK : https://wiki.xxiivv.com/#aesthetics
   TYPE : article
-  TAGS : philosophy, design, inspiration
+  TAGS : philosophy, design, inspiration, productivity
   DATE : 12018-07-19
   DONE : true
-  REVI : true
+
+WAKING UP
+  PERS : faun
+  SRCE : Merveilles
+  QOTE : Keep a huge jar of water beside your bed for when you wake up. You probably wake up dehydrated and if you drink it, waking up will become easier
+  TYPE : quote
+  TAGS : philosophy
+  DATE : 12018-07-19
+
+TYPEFACE PAIRING
+  PERS : rutherford
+  SRCE : Merveilles
+  LINK : https://craze.co.uk/typeface+pairing
+  TYPE : article
+  TAGS : design, typography
+  DATE : 12018-07-27
+  DONE : false
+  QOTE : "The goal of typography is to go unnoticed, which means your options are to either have a pattern and stick to it, or make sure there isn’t a pattern at all. Contrast, or subtlety. No half measures."
 
 MEAT
   LINK : http://www.terrybisson.com/page6/page6.html
@@ -18,6 +77,51 @@ MEAT
   DONE : true
   TAGS : fiction
 
+NIKITA VOLOBOEV
+  LINK : https://wiki.nikitavoloboev.xyz/
+  TYPE : list
+  DATE : 12018-07-19
+  DONE : false
+  TAGS : philosophy, productivity
+
+KILL SIX BILLION DEMONS
+  LINK : https://killsixbilliondemons.com/comic/kill-six-billion-demons-chapter-4/
+  TYPE : book
+  DATE : 12018-08-01
+  TAGS : comic, worldbuilding
+  
+DINOTOPIA
+  LINK : http://www.dinotopia.com/
+  TYPE : book
+  DATE : 12018-08-01
+  TAGS : comic, worldbuilding
+  NOTE : Childhood, lost and found.
+
+UNIVERSAL PAPERCLIPS
+  LINK : http://www.decisionproblem.com/paperclips/
+  TYPE : game
+  DATE : 12018-07-31
+  DONE : true
+  TAGS : web, clicker game, thought experiment
+
+RAVEN KWOK
+  LINK : http://ravenkwok.com/
+  TYPE : list
+  DATE : 12018-07-31
+  TAGS : generative, inspiration
+
+JOEL SIMON
+  LINK : http://www.joelsimon.net/
+  TYPE : list
+  DATE : 12018-07-31
+  TAGS : generative, inspiration, biology
+
+OPTIMIZATION PROGRAM
+  QOTE : "An optimization program is a tool to let you know which constraints you forgot"
+  LINK : https://www.reddit.com/r/dataisbeautiful/comments/934zar/what_happens_when_you_let_computers_optimize/e3avmwp/?context=8&depth=9
+  TYPE : quote
+  DATE : 12018-07-31
+  TAGS : philosophy, code, generative
 
 INTERACTION DESIGN FUTURE
   LINK : http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
@@ -42,7 +146,6 @@ TOP SLATE STAR CODEX
   TYPE : list
   DATE : 12018-07-19
   DONE : false
-  REVI : true
   TAGS : psychology, society, research, philosophy
 
 UNDER THE SKIN: J PETERSON
@@ -50,7 +153,6 @@ UNDER THE SKIN: J PETERSON
   TYPE : podcast
   Date : 12018-07-19
   DONE : true
-  REVI : false
   TAGS : society, psychology, philosophy
 
 SCP FOUNDATION
@@ -58,7 +160,6 @@ SCP FOUNDATION
   TYPE : list
   DATE : 12018-07-19
   DONE : false
-  REVI : true
   TAGS : fiction
 
 TENDRILS OF MESS IN OUR BRAINS
@@ -74,7 +175,6 @@ WIKTOPHER
   TYPE : book
   DATE : 12018-07-19
   DONE : false
-  REVI : true
   TAGS : fiction
 
 SELF AUTHORING
@@ -82,7 +182,6 @@ SELF AUTHORING
   TYPE : lecture
   DATE : 12018-07-19
   DONE : true
-  REVI : true
   TAGS : psychology
 
 THREE TIER MIND
@@ -91,7 +190,6 @@ THREE TIER MIND
   LINK : https://www.pftq.com/blabberbox/?page=Three_Tiers_of_Mind
   TYPE : article
   DONE : false
-  REVI : true
   DATE : 12018-07-19
   TAGS : etymology, psychology
 
@@ -111,7 +209,7 @@ VULTR
   TAGS : web
   DATE : 12018-07-19
   NOTE : Web hosting
-  DONE : true
+  DONE : false
 
 GWERN
   PERS : neauoire
@@ -158,13 +256,186 @@ Flirting
   TAGS : psychology
   DONE : true
 
+CABBIBO.IS
+  LINK : http://cabbibo.is/
+  SRCE : OooShiny
+  TYPE : list
+  DATE : 12018-07-20
+  TAGS : inspiration
+  DONE : false
+
+VI HART
+  LINK : http://vihart.com
+  TYPE : list
+  DATE : 12018-07-24
+  TAGS : inspiration
+  DONE : false
+
+ELEVR BLOG
+  LINK : http://elevr.com/blog/
+  TYPE : list
+  DATE : 12018-07-24
+  TAGS : design
+  DONE : false
+
 UNCLUTTERED GAME DESIGN
   LINK : https://www.youtube.com/watch?v=5DuDambEIMU
   TYPE : lecture
   DATE : 12018-07-19
   TAGS : game
+  DONE : true
+  NOTE : Using space in game design, be it space or time.
+
+淘宝NPM镜像
+  LINK : https://www.jianshu.com/p/253cb9003411
+  TYPE : article
+  DATE : 12018-07-26
+  TAGS : web
+  DONE : true
+  NOTE : 教程是给NVM写的。NVS用户可以运行nvs remote指令添加淘宝node下载源
+
+STREISAND
+  LINK : https://github.com/StreisandEffect/streisand
+  TYPE : tool
+  DATE : 12018-07-23
+  TAGS : web, censorship
   DONE : false
-  NOTE : Using space in game design. Cites Journey.
+  NOTE : Tool to set up VPN using own server.
+  
+WHONIX
+  LINK : https://www.whonix.org/
+  TYPE : tool
+  DATE : 12018-07-25
+  TAGS : censorship
+  DONE : false
+  NOTE : Linux OS configured for anonymity via Tor. Works well in a VM.
+
+t-SNE
+  LINK : https://lvdmaaten.github.io/tsne/
+  TYPE : tool
+  TAGS : machine learning, visualization
+  DONE : false
+  DATE : 12018-07-26
+  NOTE : Visualize high-dimensional data.
+
+Emoji in Semantic Space
+  LINK : https://getdango.com/postimg/semantic-space.html
+  TYPE : interactive
+  TAGS : inspiration, visualization
+  DONE : true
+  DATE : 12018-07-27
+  NOTE : t-SNE to group emoji. The same technique can be used to visualize bookmarks.
+
+GIFSLAP
+  LINK : https://github.com/gridwalk/gifSlap
+  TYPE : tool
+  TAGS : VJ
+  DONE : false
+  DATE : 12018-07-27
+  PERS : Donald Hanson
+
+UX ARCHIVE
+  LINK : http://uxarchive.com/
+  NOTE : Mobile app UX flow collections, categorized by tasks (onboarding, searching, etc.)
+  TAGS : UX, design
+  DONE : false
+  TYPE : list
+  DATE : 12018-07-27
+
+UXPIN E-BOOKS
+  LINK : https://www.uxpin.com/studio/ebooks/
+  NOTE : Free UX books
+  TAGS : UX, design
+  DONE : false
+  TYPE : list
+  DATE : 12018-07-28
+
+CADENCE & SLANG
+  LINK : https://s3.amazonaws.com/f.cl.ly/items/2M2l0o1C0u253J331M06/Cadence%20%26%20Slang%20%282nd%20Edition%2C%20Chapter%201%20of%207%29.pdf?AWSAccessKeyId=AKIAJEFUZRCWSLB2QA5Q&Expires=1532710503&Signature=LGV2bUAY24%2Fp1j%2BROT73%2BO%2BDSEo%3D&response-content-disposition=attachment
+  NOTE : Book on UX. This is a sample chapter.
+  TAGS : UX, design
+  DONE : false
+  TYPE : book
+  DATE : 12018-07-28
+
+STALKER (1979)
+  TYPE : video
+  NOTE : Art film from the Soviet Union
+  QOTE : "But, above all, may they believe in themselves and become as helpless as children. For softness is great and strength is worthless. When a man is born, he is soft and pliable. When he dies, he is strong and hard. When a tree grows, it is soft and pliable. But when it's dry and hard, it dies. Hardness and strength are death's companions. Flexibility and softness are the embodiment of life. That which has become hard shall not triumph."
+  TAGS : film, philosophy
+  DONE : false
+  DATE : 12018-07-28
+
+THE HOLY MOUNTAIN (1973)
+  TYPE : video
+  NOTE : Art film by Alejandro Jodorowsky.
+  TAGS : film
+  DONE : false
+  DATE : 12018-07-28
+
+MAKE IT SO
+  LINK : https://rosenfeldmedia.com/books/make-it-so/
+  NOTE : Interaction design from science fiction
+  TAGS : UX, design
+  DONE : false
+  TYPE : book
+  DATE : 12018-07-28
+
+GRIMGRAINS - TOOLS
+  LINK : http://grimgrains.com/#tools
+  SRCE : Merveilles
+  PERS : Rekka
+  TAGS : food
+  DONE : false
+  TYPE : article
+  DATE : 12018-07-28
+  NOTE : Kitchen tools for a floating home.
+
+THE TRANSPARENT SOCIETY, CHAPTER 1
+  LINK : http://www.davidbrin.com/nonfiction/transparentsociety1.html
+  SRCE : Merveilles
+  PERS : faun
+  TAGS : philosophy, technology, futurology
+  TYPE : book
+  DATE : 12018-07-28
+  DONE : false
+
+THE EVOLUTION OF TRUST
+  LINK : https://ncase.me/trust/
+  TAGS : society, psychology
+  TYPE : interactive
+  DATE : 12018-07-28
+  DONE : true
+  QOTE : "So, do what you can do, to create the conditions necessary to evolve trust. Build relationships. Find win-wins. Communicate clearly. Maybe then, we can stop firing at each other, get out of our own trenches, cross No Man's Land to come together...to live and let live."
+
+NICKY CASE
+  LINK : https://ncase.me/
+  TAGS : inspiration, game, education
+  TYPE : list
+  DATE : 12018-07-28
+  DONE : false
+  NOTE : Explorable explanations.
+
+REGEXR
+  LINK : https://regexr.com/
+  TYPE : tool
+  TAGS : code
+  DATE : 12018-07-28
+  NOTE : ReGex testing ground, explanation, and collection.
+
+STYLE2PAINTS
+  LINK : https://github.com/lllyasviel/style2paints
+  TYPE : tool
+  TAGS : machine learning, code, otaku
+  DATE : 12018-07-29
+  DONE : false
+  NOTE : Color anime-style sketches automatically, yet with great control.
+
+NOTES ON KABBALAH
+  LINK : http://sebastiansiverand.com/library/NoK.pdf
+  TYPE : book
+  TAGS : esotericism, religion, judaism
+  DATE : 12018-07-29
 
 INFINITY MIRROR PRISM
   LINK : https://www.reddit.com/r/DIY/comments/93vnxi/i_made_an_infinity_mirror_prism_internet_lacked_a/e3gkmtt/
