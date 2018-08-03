@@ -92,7 +92,7 @@ NIKITA VOLOBOEV
   TYPE : list
   DATE : 12018-07-19
   DONE : false
-  TAGS : philosophy, productivity
+  TAGS : philosophy, productivity, individual
 
 KILL SIX BILLION DEMONS
   LINK : https://killsixbilliondemons.com/comic/kill-six-billion-demons-chapter-4/
@@ -118,7 +118,7 @@ RAVEN KWOK
   LINK : http://ravenkwok.com/
   TYPE : list
   DATE : 12018-07-31
-  TAGS : generative, inspiration
+  TAGS : generative, inspiration, individual
 
 SHU
   LINK : https://shud.in/
@@ -145,7 +145,7 @@ JOEL SIMON
   LINK : http://www.joelsimon.net/
   TYPE : list
   DATE : 12018-07-31
-  TAGS : generative, inspiration, biology
+  TAGS : generative, inspiration, biology, individual
 
 OPTIMIZATION PROGRAM
   QOTE : "An optimization program is a tool to let you know which constraints you forgot"
@@ -249,7 +249,7 @@ GWERN
   TYPE : list
   DATE : 12018-07-19
   DONE : false
-  TAGS : history, psychology, science, ai, bitcoin, code, psychedelics, env
+  TAGS : history, psychology, science, ai, bitcoin, code, psychedelics, env, individual
 
 LET'S ENCRYPT
   LINK : https://letsencrypt.org/
@@ -292,14 +292,14 @@ CABBIBO.IS
   SRCE : OooShiny
   TYPE : list
   DATE : 12018-07-20
-  TAGS : inspiration
+  TAGS : inspiration, individual
   DONE : false
 
 VI HART
   LINK : http://vihart.com
   TYPE : list
   DATE : 12018-07-24
-  TAGS : inspiration
+  TAGS : inspiration, individual
   DONE : false
 
 ELEVR BLOG
@@ -442,7 +442,7 @@ THE EVOLUTION OF TRUST
 
 NICKY CASE
   LINK : https://ncase.me/
-  TAGS : inspiration, game, education
+  TAGS : inspiration, game, education, individual
   TYPE : list
   DATE : 12018-07-28
   DONE : false
