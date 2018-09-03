@@ -189,8 +189,22 @@ NUMI
   LINK : https://numi.io/
   TYPE : tool
   DATE : 12018-08-03
-  TAGS : productivity, inspiration
+  TAGS : productivity, inspiration, math
   NOTE : Text editor calculator
+
+WOLFRAM ALPHA
+  LINK : https://www.wolframalpha.com/
+  TYPE : tool
+  DATE : 12018-09-03
+  TAGS : math, dictionary
+  NOTE : Computable knowledge.
+
+A NEW KIND OF SCIENCE
+  LINK : https://www.wolframscience.com/nks/
+  DONE : false
+  TYPE : book
+  DATE : 12018-09-03
+  TAGS : science, code, generative
 
 JOEL SIMON
   LINK : http://www.joelsimon.net/
