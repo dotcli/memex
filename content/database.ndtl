@@ -206,6 +206,13 @@ A NEW KIND OF SCIENCE
   DATE : 12018-09-03
   TAGS : science, code, generative
 
+LIBRARY GENESIS
+  LINK : http://libgen.io/
+  TYPE : tool
+  DATE : 12018-09-03
+  NOTE : Free e-books.
+  TAGS : book
+
 JOEL SIMON
   LINK : http://www.joelsimon.net/
   TYPE : list
@@ -250,6 +257,13 @@ UNDER THE SKIN: J PETERSON
   Date : 12018-07-19
   DONE : true
   TAGS : society, psychology, philosophy
+
+UNNAMED REVERSE ENGINEERING PODCAST
+  LINK : https://reverseengineering.libsyn.com/
+  TYPE : podcast
+  DATE : 12018-08-28
+  DONE : false
+  TAGS : code, hardware
 
 SCP FOUNDATION
   LINK : http://www.scp-wiki.net/

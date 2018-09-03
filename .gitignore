@@ -1,3 +1,4 @@
 /content/media/*.pdf
 /content/media/*.zip
 /content/media/*.html
+.DS_Store
