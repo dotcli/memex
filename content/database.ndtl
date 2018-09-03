@@ -22,6 +22,17 @@ THE TWINGE OF STARTING
   DATE : 12018-07-19
   DONE : true
 
+THE CYBERPALEO ETHIC
+  LINK : https://mailchi.mp/ribbonfarm/the-cyberpaleo-ethic-and-the-spirit-of-postcapitalism
+  TYPE : article
+  TAGS : philosophy, economy, psychology
+  DATE : 12018-09-03
+  QOTE
+    > "Necessity relates to the capacity for staying alive. Meaning relates to the interestingness of doing so. Burnout happens when one outruns the other."
+    > "When the outcome of work involves the variability of the environment in a consequential way, meaning and necessity are coupled. Life can be interesting without ideology."
+    > "You cannot burn out or get bored. You can only live, or die."
+    > "The cyberpaleo ethic: all the conveniences of the cyber age, with all the life-and-death meaningfulness of the paleolithic age -- engineered by choice into the environment."
+
 ELEVR LEARNINGS IN ONE YEAR
   LINK : http://elevr.com/1-year-at-ycr/
   TYPE : article
@@ -105,9 +116,9 @@ MEAT
 A Declaration of the Independence of Cyberspace
   LINK : https://www.eff.org/cyberspace-independence
   TYPE : article
-  DATE : 12018-08-06
+  DATE : 12018-07-19
   DONE : true
-  TAGS : web, freedom
+  TAGS : web, freedom, philosophy
   QOTE : "Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather."
 
 NIKITA VOLOBOEV
@@ -233,14 +244,19 @@ INTERACTION DESIGN FUTURE
   TAGS : ux, design
   DONE : false
 
-INDEPENDENCE IN CYBERSPACE
-  PERS : ark
-  SRCE : Merveilles
-  LINK : https://www.eff.org/cyberspace-independence
-  TYPE : article
-  DATE : 12018-07-19
-  TAGS : philosophy
-  DONE : false
+BREAKING SMART S1
+  LINK : https://breakingsmart.com/en/season-1-newsletter-archive/
+  TYPE : list
+  NOTE : Theme: "Software is Eating the World"
+  TAGS : philosophy, technology, economy
+  DATE : 12018-09-03
+
+BREAKING SMART S2
+  LINK : https://breakingsmart.com/en/season-2/season-2-newsletter-archive/
+  TYPE : list
+  NOTE : Cyberpaleo aesthetics.
+  TAGS : philosophy, technology, economy
+  DATE : 12018-09-03
 
 TOP SLATE STAR CODEX
   PERS : neauoire
