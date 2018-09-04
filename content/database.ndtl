@@ -557,6 +557,14 @@ STYLE2PAINTS
   DONE : false
   NOTE : Color anime-style sketches automatically, yet with great control.
 
+NEURAL STYLE TENSORFLOW
+  LINK : https://github.com/cysmith/neural-style-tf
+  TYPE : tool
+  TAGS : machine learning, code, art
+  DATE : 12018-09-05
+  DONE : false
+  NOTE : Neural style transfer for both image and video.
+
 NOTES ON KABBALAH
   LINK : http://sebastiansiverand.com/library/NoK.pdf
   TYPE : book
