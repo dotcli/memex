@@ -423,7 +423,7 @@ STREISAND
   LINK : https://github.com/StreisandEffect/streisand
   TYPE : tool
   DATE : 12018-07-23
-  TAGS : web, censorship
+  TAGS : web, censorship, privacy
   DONE : false
   NOTE : Tool to set up VPN using own server.
   
@@ -434,6 +434,13 @@ WHONIX
   TAGS : censorship
   DONE : false
   NOTE : Linux OS configured for anonymity via Tor. Works well in a VM.
+
+HYPERFACE
+  LINK : https://ahprojects.com/projects/hyperface/
+  TYPE : article
+  DATE : 12018-09-07
+  TAGS : censorship, privacy, fashion, computer vision, art
+  NOTE : Counter facial detection surveillance by providing false face data.
 
 t-SNE
   LINK : https://lvdmaaten.github.io/tsne/
