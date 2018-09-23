@@ -63,6 +63,15 @@ IDENTITY
     Instead of choosing an identity based on who I was, I based it on who I wanted to become.
     It gave me a sense of direction, or something to chase."
 
+LOGO
+  PERS : faun
+  SRCE : Merveilles
+  TYPE : quote
+  TAGS : semiotics, design
+  QOTE
+    Are there aspects of yourself that you foresee won't change for a long while?
+    Can you represent them in visual form, for a semiotician from the future to decrypt?
+
 THE THREE GATES OF SPEECH
   TYPE : quote
   QOTE
@@ -422,6 +431,13 @@ ELEVR BLOG
   TAGS : design, virtual reality, research
   DONE : false
 
+Reality-virtuality continuum
+  LINK : https://en.wikipedia.org/wiki/Reality%E2%80%93virtuality_continuum
+  TYPE : article
+  DATE : 12018-09-23
+  TAGS : virtual reality, etymology
+  NOTE : Real Environment - Augmented Reality - Augmented Virtuality - Virtual Environment
+
 UNCLUTTERED GAME DESIGN
   LINK : https://www.youtube.com/watch?v=5DuDambEIMU
   TYPE : lecture
@@ -479,7 +495,7 @@ t-SNE
 Emoji in Semantic Space
   LINK : https://getdango.com/postimg/semantic-space.html
   TYPE : interactive
-  TAGS : inspiration, visualization
+  TAGS : inspiration, visualization, semiotics
   DONE : true
   DATE : 12018-07-27
   NOTE : t-SNE to group emoji. The same technique can be used to visualize bookmarks.
