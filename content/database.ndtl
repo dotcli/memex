@@ -507,6 +507,46 @@ OFF POCKET
   TAGS : privacy, gadget
   NOTE : Faraday cage phone case, blocks all wireless signals. For avoiding tracking and also for disconnecting.
 
+GENEROMINOS
+  LINK : http://www.galaxykate.com/generominos/generominos.pdf
+  TYPE : tool
+  DATE : 12018-10-01
+  PERS : Kate Compton
+  NOTE : Generative ideation cards.
+  TAGS : ideation, generative
+
+REACTION-DIFFUSION TUTORIAL
+  LINK : http://www.karlsims.com/rd.html
+  TYPE : article
+  DATE : 12018-10-01
+  PERS : Karl Sims
+  TAGS : reaction diffusion, generative
+  NOTE : A simulation of two virtual chemicals reacting and diffusing on a 2D grid using the Gray-Scott model.
+  DONE : false
+
+REACTION-DIFFUSION DEMO
+  LINK : http://pmneila.github.io/jsexp/grayscott/
+  TYPE : interactive
+  DATE : 12018-10-01
+  NOTE : Interactive playground of rx-diff, with presets to explore.
+  TAGS : reaction diffusion, generative
+
+DESIGN KIT
+  LINK : http://www.designkit.org/methods
+  TYPE : tool
+  NOTE : IDEO's methods for inspiration, ideation, and implementation.
+  DONE : false
+  DATE : 12018-10-01
+  TAGS : design, prototyping, ideation
+
+AUGMENTING LONG-TERM MEMORY
+  LINK : http://augmentingcognition.com/ltm.html
+  TYPE : article
+  DONE : false
+  DATE : 12018-10-01
+  NOTE : Essay on using Anki to memorize info for long time. Reading papers, understanding foreign subjects, and other patterns.
+  TAGS : memory, psychology, memex
+
 t-SNE
   LINK : https://lvdmaaten.github.io/tsne/
   TYPE : tool
