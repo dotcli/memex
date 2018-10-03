@@ -313,7 +313,7 @@ STOCKS
   DATE : 12018-09-23
   SRCE : Merveilles
   PERS : horsman
-  TAGS : personal finance, investment
+  TAGS : personal finance, economy, investment
   QOTE
     If you are not a finance expert, or an expert of the industry you are investing in _and_  intermediately knowledgeable in finance, you are going to be way better off buying index funds of various kinds.
     The less you touch or money and actively trade, the better you will do on average.
@@ -323,6 +323,15 @@ STOCKS
     1. Average your trades in and out: if you have enough money that the cost of trades is insignificant in relation to the cost of stock you are buying, you should purchase 1/n stock with a fixed frequency, n times. this averages out the volitility of the stock price over that period of time, giving you something closer to the macro value of the stock. You can do this when you sell, too.
     2. Rebalance your assets with a given frequency, say 1-4 times a year. If your due diligence is the same, you should still want to have the same percentage of your money in each of the areas you planned before. This means that if one of your stocks had _sick gains_, you should take those gains and put them with equal percentages into all of your investments, not just continue to bet on the stock that did well with that money. Rebalance your investment percentages back to what you originally decided.
     3. Update your due diligence. Are the macro forces that got you into the investments you have still relevant? What is the current status of the market you are investing in?
+
+THE INTELLIGENT INVESTOR
+  TYPE : book
+  LINK : https://en.wikipedia.org/wiki/The_Intelligent_Investor
+  DATE : 12018-10-03
+  TAGS : personal finance, economy, investment
+  QOTE
+    The group approach. To try to buy groups of stocks that meet some simple criterion for being undervalued-regardless of the industry and with very little attention to the individual company.
+    The investor is advised to concentrate on the real life performance of his companies and receiving dividends, rather than be too concerned with Mr. Market's often irrational behavior.
 
 UNDER THE SKIN: J PETERSON
   LINK : https://youtu.be/r2S58rH0PAw?t=1h1m38s
