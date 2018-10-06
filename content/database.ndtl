@@ -491,6 +491,17 @@ MORALITY SYSTEMS IN GAME
   TAGS : game design, morality
   NOTE : Having a system in game that evaluates your moral choices would corrupt them, for it would turn an ethical choice into a strategic one.
 
+MULTIPLAYER MUSIC AND SOUND
+  LINK : https://www.youtube.com/watch?v=mqylE_9Cbvg
+  TYPE : lecture
+  DATE : 12018-10-06
+  TAGS : game design, sound design
+  NOTE
+    Multiplayer games such as Overwatch & DotA struggle to design its audio. 
+    One, because music have to be used sparsely in order to avoid repeating too much and annoying the players; and two, because the sound design affects game balance.
+    Playing the music only before game starts give a sense of ceremony, and playing it toward the end of a game adds tension.
+    Making footsteps audible, and providing in-game communication tools that are audio based, fill up the void of the soundscape while giving players crucial in-game information.
+
 淘宝NPM镜像
   LINK : https://www.jianshu.com/p/253cb9003411
   TYPE : article
