@@ -2024,4 +2024,34 @@ https://www.dezeen.com/2019/10/07/nendo-3d-printed-bonsai-tree/
 
 https://www.theverge.com/2019/3/29/18287129/kiel-mutschelknaus-space-type-generator-animation-design-motion-graphics-coding
 
+Raymarching Toolkit for Unity
+  LINK : https://kev.town/raymarching-toolkit/
+  SRCE : OooShiny
+  DATE : 12019-10-10
+  TAGS : unity3d, raymarching, VJ, SDF
+  TYPE : tool
+
+SDFr
+  LINK : https://github.com/xraxra/SDFr
+  TYPE : tool
+  DATE : 12019-10-10
+  SRCE : Merveilles
+  PERS : xra
+  TAGS : unity3d, VJ, SDF, raymarching
+
+MEMORY OF A BROKEN DIMENSION
+  LINK : https://xra.itch.io/memory-of-a-broken-dimension
+  TYPE : game
+  DATE : 12019-10-10
+  SRCE : Merveilles
+  PERS : xra
+  TAGS : SDF, raymarching, abstract, visual
+
+Unity Visual Effect Graph
+  LINK : https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Visual-Effect-Graph
+  TYPE : tool
+  DATE : 12019-10-10
+  TAGS : unity3d, VJ
+  NOTE : Part of the Scriptable Render Pipeline.
+
 `
