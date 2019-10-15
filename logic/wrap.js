@@ -45,6 +45,14 @@ function Wrap()
       entry.LINK = this.objectSplit(entry.LINK);
       entry.FILE = this.objectSplit(entry.FILE);
 
+      // NOTE: custom logic that ignores the DONE flag,
+      // and marks incomplete entries as DONE : false
+      entry.DONE = (
+        typeof entry.DATE !== 'undefined' &&
+        typeof entry.TYPE !== 'undefined' &&
+        typeof entry.TAGS !== 'undefined'
+      );
+
       database[keys[i]].DIID = i;
     }
 
@@ -156,7 +164,7 @@ function Wrap()
               // true
               if (typeof value.DONE !== 'undefined')
               {
-                if (value.DONE == 'true')
+                if (value.DONE == true)
                 {
                   tempDatabase[keys[i]] = db[keys[i]];
                 }
@@ -243,7 +251,7 @@ function Wrap()
       // DONE
       if (typeof db[dbKeys[i]].DONE !== 'undefined')
       {
-        if (db[dbKeys[i]].DONE == 'true')
+        if (db[dbKeys[i]].DONE == true)
         {
           stats.done ++;
         } 
