@@ -36,6 +36,7 @@ THE CYBERPALEO ETHIC
   DONE : true
 
 IDENTITY
+  DATE : 12018-07-19
   PERS : neauoire
   SRCE : Merveilles
   TYPE : quote
@@ -47,6 +48,7 @@ IDENTITY
   DONE : true
 
 LOGO
+  DATE : 12018-07-19
   PERS : faun
   SRCE : Merveilles
   TYPE : quote
@@ -79,7 +81,6 @@ CABBIBO'S VR INSIGHT
   TYPE : list
   TAGS : design, inspiration, virtual reality
   DATE : 12018-07-20
-  DONE : false
   QOTE
     > "Befriend an Architect, Industrial designer or an interior designer... They have infinitely more practice than you studying space"
     > "Think about how you can transform that engineering into creating some piece that was never before possible, that pushes the limits of human understanding, and that moves us forward as a species."
@@ -93,7 +94,6 @@ ELEVR LEARNINGS IN ONE YEAR
   TYPE : article
   TAGS : design, inspiration, virtual reality, research
   DATE : 12018-07-24
-  DONE : false
 
 NOTES ON OUTPUT
   PERS : neauoire
@@ -102,7 +102,6 @@ NOTES ON OUTPUT
   TYPE : article
   TAGS : philosophy, design, inspiration, productivity, merveilles
   DATE : 12018-07-19
-  DONE : false
 
 WAKING UP
   PERS : faun
@@ -144,14 +143,12 @@ MEAT
   TYPE : article
   DATE : 12018-07-19
   QOTE : 'Meat. They're made out of meat.'
-  DONE : false
   TAGS : fiction
 
 A Declaration of the Independence of Cyberspace
   LINK : https://www.eff.org/cyberspace-independence
   TYPE : article
   DATE : 12018-07-19
-  DONE : false
   TAGS : web, freedom, philosophy
   QOTE : "Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather."
 
@@ -172,7 +169,6 @@ NIKITA VOLOBOEV
   LINK : https://wiki.nikitavoloboev.xyz/
   TYPE : list
   DATE : 12018-07-19
-  DONE : false
   TAGS : philosophy, productivity, individual, merveilles
 
 KILL SIX BILLION DEMONS
@@ -208,14 +204,12 @@ FRATH WIKI
   TYPE : list
   DATE : 12018-08-14
   TAGS : worldbuilding, conlang, language
-  DONE : false
   NOTE : Conlang / conworld resource
 
 UNIVERSAL PAPERCLIPS
   LINK : http://www.decisionproblem.com/paperclips/
   TYPE : game
   DATE : 12018-07-31
-  DONE : false
   TAGS : web, clicker game, thought experiment
 
 RAVEN KWOK
@@ -313,14 +307,12 @@ WOLFRAM ALPHA
 
 A NEW KIND OF SCIENCE
   LINK : https://www.wolframscience.com/nks/
-  DONE : false
   TYPE : book
   DATE : 12018-09-03
   TAGS : science, code, generative
 
 BAYESIAN METHODS
   LINK : https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
-  DONE : false
   TYPE : book
   DATE : 12018-09-07
   TAGS : ai, machine learning
@@ -366,7 +358,6 @@ INTERACTION DESIGN FUTURE
   TYPE : article
   DATE : 12018-07-19
   TAGS : ux, design
-  DONE : false
 
 BREAKING SMART S1
   LINK : https://breakingsmart.com/en/season-1-newsletter-archive/
@@ -388,7 +379,6 @@ TOP SLATE STAR CODEX
   LINK : http://slatestarcodex.com/top-posts/
   TYPE : list
   DATE : 12018-07-19
-  DONE : false
   TAGS : psychology, society, research, philosophy
 
 STOCKS
@@ -421,28 +411,24 @@ UNDER THE SKIN: J PETERSON
   LINK : https://youtu.be/r2S58rH0PAw?t=1h1m38s
   TYPE : podcast
   DATE : 12018-07-19
-  DONE : false
   TAGS : society, psychology, philosophy
 
 UNNAMED REVERSE ENGINEERING PODCAST
   LINK : https://reverseengineering.libsyn.com/
   TYPE : podcast
   DATE : 12018-08-28
-  DONE : false
   TAGS : code, hardware
 
 SCP FOUNDATION
   LINK : http://www.scp-wiki.net/
   TYPE : list
   DATE : 12018-07-19
-  DONE : false
   TAGS : fiction, science
 
 TENDRILS OF MESS IN OUR BRAINS
   LINK : https://www.ribbonfarm.com/2017/01/05/tendrils-of-mess-in-our-brains/
   TYPE : article
   DATE : 12018-07-19
-  DONE : false
   TAGS : psychology
 
 WIKTOPHER
@@ -450,7 +436,6 @@ WIKTOPHER
   LINK : https://wiktopher.kokorobot.ca/
   TYPE : book
   DATE : 12018-07-19
-  DONE : false
   TAGS : fiction, fantasy, conlang, worldbuilding
 
 THREE TIER MIND
@@ -458,7 +443,6 @@ THREE TIER MIND
   SRCE : Merveilles
   LINK : https://www.pftq.com/blabberbox/?page=Three_Tiers_of_Mind
   TYPE : article
-  DONE : false
   DATE : 12018-07-19
   TAGS : etymology, psychology
 
@@ -469,7 +453,6 @@ WONDERBOOK
   TYPE : book
   NOTE : "The Illustrated Guide to Creating Imaginative Fiction."
   DATE : 12018-07-19
-  DONE : false
   TAGS : art, design
 
 VULTR
@@ -478,7 +461,6 @@ VULTR
   TAGS : web
   DATE : 12018-07-19
   NOTE : Web hosting
-  DONE : false
 
 GWERN
   PERS : neauoire
@@ -486,14 +468,12 @@ GWERN
   LINK : http://www.gwern.net/
   TYPE : list
   DATE : 12018-07-19
-  DONE : false
   TAGS : history, psychology, science, ai, bitcoin, code, psychedelics, env, individual
 
 LET'S ENCRYPT
   LINK : https://letsencrypt.org/
   TYPE : tool
   DATE : 12018-07-19
-  DONE : false
   TAGS : code, web
   NOTE : Free encryption ssl cert
 
@@ -504,7 +484,6 @@ CATASTROPHE JOURNAL
   TYPE : article
   DATE : 12018-07-19
   TAGS : philosophy, psychology
-  DONE : false
 
 MISE EN BAG
   PERS : cblgh
@@ -512,7 +491,6 @@ MISE EN BAG
   LINK : https://miseenbag.com/
   TYPE : article
   DATE : 12018-07-19
-  DONE : false
   TAGS : food, cooking
   NOTE : Guerilla cooking backpack
 
@@ -537,21 +515,18 @@ CABBIBO.IS
   TYPE : list
   DATE : 12018-07-20
   TAGS : inspiration, individual, web, virtual reality, art
-  DONE : false
 
 VI HART
   LINK : http://vihart.com
   TYPE : list
   DATE : 12018-07-24
   TAGS : inspiration, individual, research, virtual reality
-  DONE : false
 
 ELEVR BLOG
   LINK : http://elevr.com/blog/
   TYPE : list
   DATE : 12018-07-24
   TAGS : design, virtual reality, research
-  DONE : false
 
 Reality-virtuality continuum
   LINK : https://en.wikipedia.org/wiki/Reality%E2%80%93virtuality_continuum
@@ -596,7 +571,6 @@ UNCLUTTERED GAME DESIGN
   TYPE : lecture
   DATE : 12018-07-19
   TAGS : game design, minimalism
-  DONE : false
   NOTE : Using space in game design, be it space or time. Make things stand out.
 
 MORALITY SYSTEMS IN GAME
@@ -632,7 +606,6 @@ STREISAND
   TYPE : tool
   DATE : 12018-07-23
   TAGS : web, censorship, privacy
-  DONE : false
   NOTE : Tool to set up VPN using own server.
   
 WHONIX
@@ -640,7 +613,6 @@ WHONIX
   TYPE : tool
   DATE : 12018-07-25
   TAGS : censorship
-  DONE : false
   NOTE : Linux OS configured for anonymity via Tor. Works well in a VM.
 
 HYPERFACE
@@ -675,7 +647,6 @@ REACTION-DIFFUSION TUTORIAL
   PERS : Karl Sims
   TAGS : reaction diffusion, generative
   NOTE : A simulation of two virtual chemicals reacting and diffusing on a 2D grid using the Gray-Scott model.
-  DONE : false
 
 REACTION-DIFFUSION DEMO
   LINK : http://pmneila.github.io/jsexp/grayscott/
@@ -688,14 +659,12 @@ DESIGN KIT
   LINK : http://www.designkit.org/methods
   TYPE : tool
   NOTE : IDEO's methods for inspiration, ideation, and implementation.
-  DONE : false
   DATE : 12018-10-01
   TAGS : design, prototyping, ideation
 
 AUGMENTING LONG-TERM MEMORY
   LINK : http://augmentingcognition.com/ltm.html
   TYPE : article
-  DONE : false
   DATE : 12018-10-01
   NOTE : Essay on using Anki to memorize info for long time. Reading papers, understanding foreign subjects, and other patterns.
   TAGS : memory, psychology, memex
@@ -712,7 +681,6 @@ Emoji in Semantic Space
   LINK : https://getdango.com/postimg/semantic-space.html
   TYPE : interactive
   TAGS : inspiration, visualization, semiotics
-  DONE : false
   DATE : 12018-07-27
   NOTE : t-SNE to group emoji. The same technique can be used to visualize bookmarks.
 
@@ -744,7 +712,6 @@ UXPIN E-BOOKS
   LINK : https://www.uxpin.com/studio/ebooks/
   NOTE : Free UX books
   TAGS : UX, design
-  DONE : false
   TYPE : list
   DATE : 12018-07-28
 
@@ -752,7 +719,6 @@ CADENCE & SLANG
   LINK : https://medium.com/thoughtful-design/the-cadence-slang-of-good-user-interaction-e34953323c49
   NOTE : Book on UX.
   TAGS : UX, design
-  DONE : false
   TYPE : book
   DATE : 12018-07-28
   QOTE : “Cadence” covers the rhythms we get into when we’re immersed in productive work with technology; “Slang” discusses the visual and interactional languages of an interface.
@@ -762,21 +728,18 @@ STALKER (1979)
   NOTE : Art film from the Soviet Union
   QOTE : "But, above all, may they believe in themselves and become as helpless as children. For softness is great and strength is worthless. When a man is born, he is soft and pliable. When he dies, he is strong and hard. When a tree grows, it is soft and pliable. But when it's dry and hard, it dies. Hardness and strength are death's companions. Flexibility and softness are the embodiment of life. That which has become hard shall not triumph."
   TAGS : film, philosophy
-  DONE : false
   DATE : 12018-07-28
 
 THE HOLY MOUNTAIN (1973)
   TYPE : video
   NOTE : Art film by Alejandro Jodorowsky.
   TAGS : film
-  DONE : false
   DATE : 12018-07-28
 
 MAKE IT SO
   LINK : https://rosenfeldmedia.com/books/make-it-so/
   NOTE : Interaction design from science fiction
   TAGS : UX, design, sci-fi
-  DONE : false
   TYPE : book
   DATE : 12018-07-28
 
@@ -797,7 +760,6 @@ THE TRANSPARENT SOCIETY, CHAPTER 1
   TAGS : philosophy, technology, futurology
   TYPE : book
   DATE : 12018-07-28
-  DONE : false
 
 THE EVOLUTION OF TRUST
   LINK : https://ncase.me/trust/
@@ -849,7 +811,6 @@ INFINITY MIRROR PRISM
   LINK : https://www.reddit.com/r/DIY/comments/93vnxi/i_made_an_infinity_mirror_prism_internet_lacked_a/e3gkmtt/
   TYPE : article
   DATE : 12018-08-02
-  DONE : false
   TAGS : hardware, DIY, LED
   NOTE : Build guide on making trippy LED toy. Potential workshop idea at XinCheJian?
 
@@ -857,14 +818,12 @@ BIGFACEBOX
   LINK : http://portal.nifty.com/bigface/howtomakebox.htm#en
   TYPE : article
   DATE : 12018-08-05
-  DONE : false
   TAGS : hardware, DIY, humor
 
 VARIETIES OF ARGUMENTATIVE EXPERIENCE
   LINK : http://slatestarcodex.com/2018/05/08/varieties-of-argumentative-experience/
   TYPE : article
   DATE : 12018-08-05
-  DONE : false
   TAGS : philosophy, psychology, erisology
   NOTE : If an internet argument ever infuriates you so much that you can't sleep, read this.
 
