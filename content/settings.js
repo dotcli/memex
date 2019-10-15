@@ -21,7 +21,6 @@ const SETTINGS =
 	SHOWNOTE: true,
 	SHOWQOTE: true,
 	SHOWTERM: true,
-	SHOWDONE: true,
 	SHOWPROG: true,
 	SHOWIMAG: true,
 	SHOWFILE: true,
