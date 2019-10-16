@@ -862,7 +862,7 @@ YOU ARE LISTENING TO
   TYPE : music
   DATE : 12018-08-05
   DONE : true
-  TAGS : piano, heart, japan
+  TAGS : piano, heart, japan, japanese music
 
 Sarah Vaughan - Misty
   LINK : https://www.youtube.com/watch?v=6U1RaS_TQQk
@@ -1735,7 +1735,7 @@ Ukulele Major 2-5-1 progression
 MATH ROCK HARMONY
   LINK : https://www.youtube.com/watch?v=7ePLqaV2OWU
   TYPE : video
-  TAGS : music, guitar, math rock, music theory, chord
+  TAGS : music, guitar, rock, math rock, music theory, chord
   DATE : 12019-07-01
   NOTE
     > Common chord qualities, progressions, and intervals in math rock.
@@ -1812,7 +1812,7 @@ Death From Above 1979 - Little Girl
   TYPE : music
   LINK : https://www.youtube.com/watch?v=q2jdne6GVHQ
   DATE : 12019-07-13
-  TAGS : punk rock, bass
+  TAGS : rock, punk rock, bass
   NOTE : B A S S
 
 GIANT STEPS
@@ -1862,7 +1862,7 @@ BUTTER BASTED STEAK
 Common Japanese Chord Progressions (Part 1)
   LINK : https://www.youtube.com/watch?v=yKV58VVGV9k
   TYPE : video
-  TAGS : math rock, japanese music, japan, chord, music, music theory
+  TAGS : rock, math rock, japanese music, japan, chord, music, music theory
   DATE : 12019-08-09
   NOTE
     > Interesting that japanese styles of progression is also found in CHON's music, and other math rock bands in the state. The influence could have came from video game and anime.
@@ -1874,7 +1874,7 @@ Common Japanese Chord Progressions (Part 1)
 Common Japanese Chord Progressions (Part 2)
   LINK : https://www.youtube.com/watch?v=Ne_9UnKcSb4
   TYPE : video
-  TAGS : math rock, japanese music, japan, chord, music, music theory
+  TAGS : rock, math rock, japanese music, japan, chord, music, music theory
   DATE : 12019-08-11
   NOTE
     > IV iii progression. Simplified from IV iii vi. A floating feeling.
@@ -2053,4 +2053,11 @@ TRUTH DECAY
     2. a blurring of the line between opinion and fact
     3. the increasing relative volume and resulting influence of opinion and personal experience over fact
     4. declining trust in formerly respected sources of facts.
+
+The Pillows - Beautiful morning with you
+  LINK : https://www.youtube.com/watch?v=wj5hmkhUntM
+  TYPE : music
+  DATE : 12019-10-17
+  TAGS : anime, music, japan, japanese music, rock
+  NOTE : FLCL
 `
