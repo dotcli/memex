@@ -156,7 +156,7 @@ Information Management: A Proposal
   LINK : https://www.w3.org/History/1989/proposal.html
   TYPE : article
   DATE : 12018-09-08
-  TAGS : web, research, information science
+  TAGS : web, research, information
   DONE : true
   NOTE : The original proposal of the WWW, by Tim Berners-Lee at CERN.
   QOTE
@@ -1572,7 +1572,7 @@ Steganography
     > Steganography: concealing piece of information within another file, message, image, or video. 隐写术
   DATE : 12019-04-22
   TYPE : article
-  TAGS : information science, cryptography
+  TAGS : information, cryptography
 
 女书
   LINK : https://zh.wikipedia.org/wiki/%E5%A5%B3%E4%B9%A6
@@ -2095,5 +2095,17 @@ https://ncase.me/anxiety/
 
 https://www.youtube.com/watch?v=jKbH9i5axxU
 
-https://clerestory.netlify.com/zk/
+Zettelkästen
+  LINK : https://clerestory.netlify.com/zk/
+  DATE : 12019-10-26
+  TYPE : article
+  TAGS : epistemology, information, knowledge, psychology
+  NOTE : Not very well-known knowledge system. Each knowledge is one single atomic idea, and complex ideas form by connecting them together - just like our brain.
+
+America's Southern Chinese
+  LINK : https://www.youtube.com/watch?v=2NMrqGHr5zE
+  DATE : 12019-10-28
+  TYPE : video
+  TAGS : culture, america, history, accent, language, dialect, racism
+  NOTE : Chinese settlers along the Mississippi delta. Since they were neither races, their grocery stores served both Black and White.
 `
