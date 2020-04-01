@@ -2324,4 +2324,44 @@ SPICE INDEX
   NOTE : Spices of the world, their names in other languages, and culinary info. Also includes different indexes such as organized by 
 
 https://librivox.org/
+
+BOKASHI BIN
+  TYPE : article
+  LINK : https://en.wikipedia.org/wiki/Bokashi_(horticulture)
+  TAGS : farming, sustainability, horticulture
+  NOTE : Household composting alternative. It ferments the organic contents within, and keeps it acidic - no bacteria or insect.
+
+JANKO KEYBOARD
+  DATE : 12020-03-14
+  TYPE : interactive
+  LINK : http://www.brandlew.com/keyboard/keys.htm?fundamental=261.6255653&right=2&upright=1&size=50&rotation=0&instrument=piano&enum=false&equivSteps=12&spectrum_colors=false&fundamental_color=41FF2E&no_labels=true&scale=!%2012-ed2%20Jank%C3%B3%206-6%20Balanced%20Symmetric%20Bilinear%20Uniform%20Keyboard%20~Halberstadt.scl%0A!%2012-tone%20equal%20tempered%20scale%20consisting%20of%2012%20sonically%20equal%20divisions%20per%20frequency%20halving%2Fdoubling%2C%20mapped%20on%20a%20(hexagonal)%20tilted%20Jank%C3%B3%20layout%20which%20can%20be%20regarded%20as%20a%20stacked%206-6%2FBalanced%2FSymmetric%2FBilinear%2FUniform%20Keyboard%2C%20and%20which%20approximates%20the%207-white%2F5-black%20Halberstadt%20organ%20layout%20(the%20classic%20piano%20keyboard).%0A!%0ATerpstra%20Keyboard%20WebApp%20%7C%2012-ed2%20Jank%C3%B3%20%2F%206-6%2FBalanced%2FSymmetric%2FBilinear%2FUniform%20Keyboard%20%2F%20~Halberstadt%0A12%0A!%0A100.00000%0A200.00000%0A300.00000%0A400.00000%0A500.00000%0A600.00000%0A700.00000%0A800.00000%0A900.00000%0A1000.00000%0A1100.00000%0A1200.00000&names=C%0AD%E2%99%AD%2FC%E2%99%AF%0AD%0AE%E2%99%AD%2FD%E2%99%AF%0AE%0AF%0AG%E2%99%AD%2FF%E2%99%AF%0AG%0AA%E2%99%AD%2FG%E2%99%AF%0AA%0AB%E2%99%AD%2FA%E2%99%AF%0AB&note_colors=ffffff%0A7b7b7b%0Affffff%0A7b7b7b%0Affffff%0Affffff%0A7b7b7b%0Affffff%0A7b7b7b%0Affffff%0A7b7b7b%0Affffff
+  TAGS : music, music theory, instrument, design, psychology, keyboard
+  NOTE : Alternative piano layout. The site itself is also interesting - seem to be able to generate customizable microtonal keyboards laid out in a hexagonal grid.
+
+https://www.youtube.com/watch?v=Ath3BX9DBRs
+
+FOR SEASONS AIR GUITAR MIX
+  DATE : 12020-03-30
+  TYPE : music
+  LINK : https://www.youtube.com/watch?v=bov4ZInsXXA
+  TAGS : djmax, game music, guitar
+
+LADYMADE STAR
+  DATE : 12020-03-30
+  TYPE : music
+  LINK : https://www.youtube.com/watch?v=D6j2YJNPdzU
+  TAGS : djmax, game music, cute
+
+ML-Agent Training Tips
+  DATE : 12020-03-31
+  TYPE : video
+  LINK : https://www.youtube.com/watch?v=ifBXOmG9xmw
+  TAGS : machine learning, unity, ml agents
+  NOTE
+    > 1. Start out as simple as possible. It's easier to increase complexity than reduce it.
+    > 2. Work carefully. Every training will take lots of time, make sure there's no error before pressing run.
+    > 3. Manually test the environment, and try to break it. Fix the env until you can't break it.
+    > 4. Use demonstrative learning to get a head start.
+    > 5. Use reward shaping in moderation; first try using curiosity and human demonstration.
+
 `
