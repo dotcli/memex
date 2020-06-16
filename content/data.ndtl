@@ -2198,7 +2198,8 @@ VR INTERFACE SOMETHING SOMETHING
   LINK : https://www.youtube.com/watch?v=id86HeV-Vb8
 
 Alexander Reben
-  TYPE : individual
+  TYPE : list
+  TAGS : individual
   LINK : https://areben.com/
 
 Painted Mountain music visualization
@@ -2399,4 +2400,21 @@ SOUND SHAPES
   TAGS : indie game, music game, music, game design, lyrics
   NOTE : Platformer that syncs all elements to music. The interplay between elements and the lyric is fun.
 
+CHIUNE SUGIHARA
+  LINK : https://en.wikipedia.org/wiki/Chiune_Sugihara
+  TAGS : individual, history, japan, jewish
+  DATE : 12020-05-05
+
+FACTITIOUS NEWS GAME
+  LINK : https://medium.com/@bobhone.designer/factitious-news-game-helps-students-spot-pandemic-misinformation-87c9a2765b57
+  NOTE : Game about telling apart real and fake news.
+
+SATOYAMA
+  LINK : https://www.youtube.com/watch?v=eIsPXmHIxVQ&feature=youtu.be&t=747
+  TYPE : video
+  DATE : 12020-05-06
+  TAGS : japan, nature, ecosystem
+  NOTE : Carp powered dishwashing.
+
+https://www.youtube.com/watch?v=keF7n1eVKzE
 `
