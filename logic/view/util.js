@@ -27,6 +27,7 @@ function Util()
         case 'image': icon = 'fas fa-image'; break;
         case 'encyclopedia': icon = 'fas fa-globe'; break;
         case 'interactive': icon = 'fas fa-mouse-pointer'; break;
+        case 'drink': icon = 'fas fa-glass-martini-alt'; break;
         case 'term': icon = 'fas fa-ribbon'; break;
         case 'note': icon = 'fas fa-sticky-note'; break;
         case 'date': icon = 'fas fa-clock'; break;
