@@ -230,7 +230,7 @@ JACOB COLLIER TED TALK
   LINK : https://www.youtube.com/watch?v=dDZoGcQVjJg
   TYPE : video
   DATE : 12019-05-13
-  TAGS : music, VJ, neural network, kinect
+  TAGS : music, VJ, neural network, kinect, facial recognition
   NOTE : Performance at Ted. The visual seems to be using many interesting & advanced techniques such as neural style transfer, background subtraction with Kinect (or just plain computer vision techniques?), facial recognition, flocking, kaleidoscopic shader, and all tied to the improvised musical inputs. Performance system created by Ben Bloomberg.
 
 STEPHEN MALINOWSKI
@@ -2535,4 +2535,55 @@ QUICKPOSES
   TYPE : tool
   TAGS : figure drawing, drawing
   NOTE : Reference for drawing.
+
+FREEPHOTOMUSCLE
+  LINK : https://freephotomuscle.com/
+  TYPE : tool
+  DATE : 12020-10-08
+  TAGS : figure drawing, drawing, muscle, funny
+  NOTE : マッチョフリー muscular japanese man in creative poses.
+
+The Shanghai Restoration Project - The Bund
+  LINK : https://www.youtube.com/watch?v=aKUNa7G7tXM
+  TYPE : music
+  TAGS : shanghai, chinese music, electronic, jazz
+  NOTE : The duo is by two Chinese Americans based in Brooklyn.
+
+Los Hermanos - Anna Júlia
+  DATE : 12020-09-22
+  TYPE : music
+  TAGS : portugese, brazilian, rock, one hit wonder
+  NOTE : This song somehow snuck into my senior year at high school, and stuck with me.
+  LINK : https://www.youtube.com/watch?v=umMIcZODm2k
+
+https://www.youtube.com/watch?v=5EuWCFCgy58
+
+http://freedomofmind.com/bite-model
+
+Tijman Schep
+  DATE : 12020-10-02
+  TYPE : list
+  LINK : https://www.tijmenschep.com/
+  TAGS : individual, privacy
+  NOTE : Technology critic & Privacy designer
+
+HOW NORMAL AM I?
+  DATE : 12020-10-15
+  TYPE : interactive
+  LINK : https://www.hownormalami.eu/
+  TAGS : privacy, machine learning, ai, facial recognition
+  QOTE : "This interactive documentary explores how face recognition technology is used, and lets you experience it yourself. You can find out how algorithms judge your beauty, age, gender, body mass index, life expectancy, emotions and much more."
+
+ハイスイノナサ - 地下鉄の動態
+  DATE : 12020-10-09
+  TYPE : music
+  LINK : https://www.youtube.com/watch?v=ZDykTjFFNIE
+  TAGS : visualization, synesthesia, animation, math rock, japanese music, minimalism
+  NOTE : Beautiful math rock composition with next-level synesthesia b&w visual that maps notes to shapes extensively.
+
+Jacob Collier Plays the Same Song In 18 Increasingly Complex Emotions
+  DATE : 12020-10-15
+  TYPE : video
+  LINK : https://www.youtube.com/watch?v=EWHpdmDHrn8
+  TAGS : music, emotion, composition, improvisation
 `
