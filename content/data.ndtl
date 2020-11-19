@@ -809,7 +809,7 @@ NOTES ON KABBALAH
 
 INFINITY MIRROR PRISM
   LINK : https://www.reddit.com/r/DIY/comments/93vnxi/i_made_an_infinity_mirror_prism_internet_lacked_a/e3gkmtt/
-  TYPE : article
+  TYPE : forum
   DATE : 12018-08-02
   TAGS : hardware, DIY, LED
   NOTE : Build guide on making trippy LED toy. Potential workshop idea at XinCheJian?
@@ -1414,7 +1414,7 @@ DIY CAT TOWER
 CONSIDERATIONS WHEN PORTING TO VR
   DATE : 12019-01-09
   LINK : https://www.reddit.com/r/Vive/comments/ae5bu3/due_to_recent_increase_of_postscomments_saying/
-  TYPE : article
+  TYPE : forum
   TAGS : virtual reality, design, porting
   NOTE
     3D effects in VR is different
@@ -1453,7 +1453,7 @@ GARTNER HYPE CYCLE
 INDICATING ROOMSCALE VR BOUNDARY
   LINK : https://www.reddit.com/r/Vive/comments/aia9sl/when_people_you_show_your_vr_to_dont_understand/
   DATE : 12019-01-22
-  TYPE : article
+  TYPE : forum
   TAGS : virtual reality, design, interior design
   QOTE
     Have a carpet in the middle of the room that gives them intuitive feedback about where they are in the real world. The ideal carpet would be small enough so that you cant reach the walls while standing on it, but large enough to give you space to walk around. Have them play without shoes so that they feel the carpet better.
@@ -1516,7 +1516,7 @@ Lake Peigneur Salt Mine drilling accident
 
 BILINGUAL PERSONALITIES
   LINK : https://www.reddit.com/r/languagelearning/comments/azokug/anyone_else/
-  TYPE : article
+  TYPE : forum
   DATE : 12019-03-12
   NOTE : A reddit post where people talk about having different "personalities" when speaking different languages.
   QOTE : "bilingual culture is realising you have different voices in different languages"
@@ -1682,7 +1682,7 @@ Generating Fake Conversations
   NOTE : GPT-2 fune-tuning. This article uses Google Collab.
 
 Generating Fake subreddits
-  TYPE : article
+  TYPE : forum
   DATE : 12019-06-20
   TAGS : generative, gpt2, neural network, machine learning, internet
   LINK : https://www.reddit.com/r/SubSimulatorGPT2/comments/btfhks/what_is_rsubsimulatorgpt2/
@@ -1772,7 +1772,7 @@ OOLIMO GUITAR CHORD ANALYZER
 
 BIRTH OF THE UNABOMBER
   LINK : https://www.reddit.com/r/AskReddit/comments/1rjj2f/what_is_the_greatest_reallife_plot_twist_in_all/cdnzqld/
-  TYPE : article
+  TYPE : forum
   DATE : 12019-07-03
   TAGS : history, psychology, cautionary tale
   NOTE : The unabomber was once a brilliant mathematics student at Harvard, until the psychologist professor experimented on him.
@@ -2325,7 +2325,7 @@ JOJO RABBIT DINNER SCENE
   LINK : https://www.youtube.com/watch?v=S1OgvSlVNyw
 
 INVENTING DISHES DURING CORONAVIRUS
-  TYPE : article
+  TYPE : forum
   LINK : https://www.reddit.com/r/Cooking/comments/f0qjm9/what_the_coronavirus_forcing_me_in_lockdowns/
   TAGS : cooking, coronavirus
 
@@ -2739,5 +2739,18 @@ Nassia Inglessis | Studio INI
 COOKING ON A BUDGET
   DATE : 12020-11-19
   TAGS : cooking, personal finance
-  TYPE : 
+  TYPE : forum
+  LINK : https://www.reddit.com/r/Cooking/comments/jwjj5r/this_is_a_help_post_from_a_professional_chef_to/
+  NOTE : Professional chef sharing tips on eating healthy on a budget
+  QOTE
+    > Buy dry legumes in bulk. They are cheap and versatile. Look into middle-eastern and african cuisine for how to use them.
+    > "Superfoods" aren't wholly good because 1. Just because they have higher concentration doesn't mean you can't get the same nutritions elsewhere. 2. Practices on producing them could be questionable. 3. They are expensive.
+    > Buy fruits and vegetables when they are on sale - this is usually due to good harvest or lack of consumer interest. Use them up creatively. Fermentation and stock are two ways to get rid of them.
+    > Meat is a luxury, not an essential.
+    > Learn how to break down your meat.
+    > If you don't live beside a large body of water, your fish is iffy.
+    > Proteins are way more than just the meat. Make use of the bones for stock and skins for oil / snack.
+    > Instant ramen is delicious, but realize that they are closer to chips than real meal.
+    > Cheese and alcohol are luxuries. Quality over quantity.
+    > Coffee markups are crazy. Make your own.
 `
