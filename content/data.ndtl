@@ -474,7 +474,7 @@ LET'S ENCRYPT
   LINK : https://letsencrypt.org/
   TYPE : tool
   DATE : 12018-07-19
-  TAGS : code, web
+  TAGS : code, web, encryption
   NOTE : Free encryption ssl cert
 
 CATASTROPHE JOURNAL
@@ -1003,7 +1003,7 @@ INTERACTING WITH NEGATIVE SPACES
   LINK : https://www.youtube.com/watch?v=Wq9QtEyO0Vc
   DATE : 12018-10-19
   TYPE : interactive
-  TAGS : inspiration, art, audio-visual
+  TAGS : inspiration, art, installation, interactive art, improvisation
 
 AKIRA (1988)
   DATE : 12018-10-20
@@ -1489,7 +1489,7 @@ CHOOSE A LICENSE
 
 FERMENTED LONELINESS
   QOTE : I bottled up my loneliness, and it fermented. Now I have champagne, but no one to drink it with.
-  TAGS : inspiration, writing, surreal
+  TAGS : inspiration, writing, surreal, loneliness
   TYPE : quote
   LINK : https://www.reddit.com/r/fifthworldproblems/comments/aqd7ja/i_bottled_up_my_loneliness_and_it_fermented_now_i/
   DATE : 12019-02-14
@@ -2071,6 +2071,9 @@ Deep Sea Banquet
 SLOMO FRAME HACK
   LINK : https://www.instructables.com/id/IKEA-Frame-Hack-SLOMO-Slow-Motion-Frame/
   DATE : 12019-10-20
+  TYPE : article
+  TAGS : DIY, hardware
+  NOTE : strobe light + vibration motor that makes light object look as if they are dancing in slow motion.
 
 CAT MESMERIZED BY FLOATING WATER DROP
   LINK : https://funnyjunk.com/Cat+vs+antigravity+water+drops/fYTTMsL/
@@ -2083,6 +2086,7 @@ LEVIZEN
   LINK : https://www.youtube.com/watch?v=zBb1RDf9PfM
   DATE : 12019-10-20
   TAGS : DIY, hardware, levitation
+  TYPE : video
   NOTE : Levitate water with ultrasonic soundwave. Can levitate other small objects too, like ants. Robin's working on duplicating it.
 
 CELESTE LEVEL DESIGN
@@ -2137,7 +2141,9 @@ OUTERRA
 EIGHTH NOTE
   LINK : https://www.youtube.com/watch?v=JE1V7ZKXcNY
   TYPE : video
-  NOTE : Platformer with voice controlled jump.
+  NOTE : Platformer with voice controlled jump. Very annoying.
+  TAGS : game, game design, voice
+  DATE : 12020-11-19
 
 POUR COURTESY
   DATE : 12019-12-09
@@ -2184,8 +2190,11 @@ MLM and Mormonism
   NOTE : There's a huge amount of MLMs based in Utah: DoTerra, Young Living, Nu Skin... The Mormons' missionary trips make them experienced in recruiting, and the high amount of stay-at-home moms give MLM companies a lot of preys to pick.
 
 swim_in_shit.exe
+  TYPE : video
+  DATE : 12020-11-19
   LINK : https://www.youtube.com/watch?v=aY1r3HMZfBA
-  NOTE : https://www.reddit.com/r/creativecoding/comments/dz93dp/processingfake_terminalmidibusableton_live/
+  NOTE : Fake Terminal window made in Processing, connected with Ableton Live via MidiBus. The ASCII texts often directly represent value changes from Ableton, forming structures that imply the music beneath.
+  TAGS : generative, music, processing, visualization, synesthesia
 
 THE DEEP SEA
   DATE : 12019-12-09
@@ -2203,6 +2212,10 @@ Alexander Reben
   LINK : https://areben.com/
 
 Painted Mountain music visualization
+  DATE : 12020-11-19
+  TYPE : video
+  TAGS : music, visualization, ink
+  NOTE : Procedural music visualization in the style of East Asian paintings (水墨画 or Sumi-e) and the works of Julie Keaten-Reed.
   LINK : https://www.youtube.com/watch?v=3IwCzvN-ulU
 
 Pro Chef & Home Cook Swap Ingredients
@@ -2291,10 +2304,16 @@ CORONAVIRUS THOUGHT
   QOTE : "i wonder if ever in the history of the world, so many people moved so little"
 
 MITT ROMNEY SPEECH FOR IMPEACHMENT
+  DATE : 12020-11-19
+  TYPE : video
+  TAGS : politics, american politics, impeachment
   LINK : https://www.youtube.com/watch?v=qS-aFfJe20U
   NOTE : The only senator who voted for impeachment. The first senator to vote to convict a president in his own party. A rare display of integrity and humanity among politicians.
 
 JOHN MCCAIN SPEECH
+  DATE : 12020-11-19
+  TAGS : politics, american politics
+  TYPE : video
   LINK : https://www.youtube.com/watch?v=wezSi5RLkRg
   NOTE : John McCain's speech after casting a NO vote for repealing Obamacare, unlike most of his party.
   QOTE
@@ -2308,6 +2327,7 @@ JOJO RABBIT DINNER SCENE
 INVENTING DISHES DURING CORONAVIRUS
   TYPE : article
   LINK : https://www.reddit.com/r/Cooking/comments/f0qjm9/what_the_coronavirus_forcing_me_in_lockdowns/
+  TAGS : cooking, coronavirus
 
 FANTASY MAP GENERATOR
   TYPE : tool
@@ -2317,16 +2337,19 @@ VEGETARIAN DEMI-GLACE
   TYPE : video
   LINK : https://www.youtube.com/watch?v=BraJQrO8IqM
   DATE : 12020-02-14
-  NOTE : Prepare sliced vegetables, mostly savory and some sweet. Roast vegetables in oven till very dark. Add water and roast to extract flavors. Strain and reduce. Add thickener.
+  TAGS : recipes, cooking, french cuisine, vegetarian
+  NOTE : Prepare sliced vegetables, mostly savory and some sweet. Add tomato paste for sour & kombu for umami. Roast vegetables in oven till very dark. Add water and roast to extract flavors. Strain and reduce. Add thickener.
 
 煎饼果子
   TYPE : video
   DATE : 12020-02-16
+  TAGS : chinese food, cooking, street food, recipes
   LINK : https://www.youtube.com/watch?v=2eLbLEiW1Bk
-  NOTE : Make jianbing at home. Need Mung Bean Flour (绿豆粉丝) mixed with regular flour for the batter, and Wonton Pastry for deep fry (云吞炸皮) to make 脆皮 with.
+  NOTE : Make jianbing at home. Need Mung Bean Flour (绿豆面粉) mixed with regular flour for the batter, and Wonton Pastry for deep fry (云吞炸皮) to make 脆皮 with.
 
 Stovetop Pizza
   TYPE : article
+  TAGS : recipes, pizza
   DATE : 12020-02-23
   LINK : https://slice.seriouseats.com/2012/03/the-pizza-lab-awesome-pizza-without-an-oven-aka-skillet-pizza.html
   NOTE : Achieve char by applying direct flame carefully.
@@ -2334,12 +2357,14 @@ Stovetop Pizza
 SPICE INDEX
   DATE : 12020-04-01
   TAGS : cooking, spice, food, history, language, geography
+  TYPE : list
   LINK : https://web.archive.org/web/20160315013057/http:/gernot-katzers-spice-pages.com/engl/spice_small.html
   NOTE : Spices of the world, their names in other languages, and culinary info. Also indexes them by geography, botanical, parts of the plant used, and spice mixtures.
 
 https://librivox.org/
 
 BOKASHI BIN
+  DATE : 12020-11-19
   TYPE : article
   LINK : https://en.wikipedia.org/wiki/Bokashi_(horticulture)
   TAGS : farming, sustainability, horticulture
@@ -2384,8 +2409,15 @@ ML-Agent Training Tips
     > 5. Use reward shaping in moderation; first try using curiosity and human demonstration.
 
 MISO NABE HOTPOT
+  DATE : 12020-11-19
+  TYPE : video
   LINK : https://www.youtube.com/watch?v=cdghCC4aSyw
   TAGS : cooking, japan, japanese food, recipes
+  NOTE
+    > Video showing how to make miso nabe hotpot. Charming hosts.
+    > To build the soup base: Dashi, minced garlic & ginger, mirin, soy sauce, and thick vegetables - cabbage stem, green onion, carrot, root veggies.
+    > Once the soup base is ready, keep heat below boiling and break miso paste into the soup. Taste to adjust.
+    > Add your mushrooms, leafy greens, tofu, and meat, in orders of cooking time. You can do this before serving, or let the guests do it.
 
 RESILIENT WEB DESIGN
   LINK : https://resilientwebdesign.com/
@@ -2393,6 +2425,7 @@ RESILIENT WEB DESIGN
   PERS : Josh
 
 WESTERN CHICKEN NOODLE SOUP
+  TYPE : video
   LINK : https://www.youtube.com/watch?v=74tZ-yOOPy0&t=17s
   DATE : 12020-01-05
   TAGS : cooking, recipes, chicken, soup
@@ -2407,8 +2440,10 @@ SOUND SHAPES
 
 CHIUNE SUGIHARA
   LINK : https://en.wikipedia.org/wiki/Chiune_Sugihara
-  TAGS : individual, history, japan, jewish
+  TAGS : individual, history, japan, jewish, WWII
   DATE : 12020-05-05
+  TYPE : article
+  NOTE : Japanese diplomat who slipped 6000 jews away under the eyes of Nazi Germany during World War 2.
 
 FACTITIOUS NEWS GAME
   LINK : https://medium.com/@bobhone.designer/factitious-news-game-helps-students-spot-pandemic-misinformation-87c9a2765b57
@@ -2556,6 +2591,7 @@ FREEPHOTOMUSCLE
   NOTE : マッチョフリー muscular japanese man in creative poses.
 
 The Shanghai Restoration Project - The Bund
+  DATE : 12020-11-19
   LINK : https://www.youtube.com/watch?v=aKUNa7G7tXM
   TYPE : music
   TAGS : shanghai, chinese music, electronic, jazz
@@ -2621,7 +2657,12 @@ Jacob Collier Plays the Same Song In 18 Increasingly Complex Emotions
     > Box tickers: People who are there to allow an org to say they are doing something they aren't doing. E.g. Surveyers who perform surveys that never get turned into policy, but allows the government to say they've been spending effort in a certain area.
     > Task masters: People who supervise people who don't need supervising. They also make up new BS jobs
 
-https://decoda.app/
+deCoda
+  TYPE : tool
+  DATE : 12020-11-14
+  LINK : https://decoda.app/
+  TAGS : songwriting, music, music theory
+  NOTE : Analyze key, tempo, chords, notes, and musical structure from audio files. Great for learning or practicing materials. Allow manually mapping notes into MIDI files too.
 
 ASYNC ART
   DATE : 12020-10-26
@@ -2651,4 +2692,52 @@ APONE APPLE RISOTTO
   TAGS : recipes, apple, autumn, risotto
   DATE : 12020-10-28
   NOTE : Apple risotto flavored with onion, chili, cardamom, cloves, and other fall spices.
+
+Circuit bending basics by Reed Ghazala
+  LINK : http://www.anti-theory.com/soundart/circuitbend/
+  DATE : 12020-11-06
+  NOTE : Basic overview by the so-called "father of circuit bending.
+  TAGS : circuit bending, hardware
+  TYPE : article
+
+Kendrick Lamar - Sing About Me, I'm Dying Of Thirst
+  TAGS : rap, hip hop
+  TYPE : music
+  DATE : 12020-11-10
+  LINK : https://www.youtube.com/watch?v=75wmW7xjyog
+  NOTE : Powerful & sorrowful storytelling rap. With a sermon thrown in at the end.
+
+Rapping, deconstructed: The best rhymers of all time
+  TAGS : rap, hip hop
+  LINK : https://www.youtube.com/watch?v=QWveXdj6oZU
+  DATE : 12020-11-10
+  TYPE : video
+  NOTE : Development of different types of rhymes in rap songs, examples, and their creative usage.
+
+HERMA
+  TAGS : funny, genital, history, greece, sculpture
+  DATE : 12020-11-14
+  LINK : https://en.wikipedia.org/wiki/Herma
+  TYPE : article
+  TERM
+    > Herma: A greek sculpture; a column topped by the head of Hermes, and decorated with a male genital.
+
+CYBERCHEF
+  DATE : 12020-11-14
+  TYPE : tool
+  LINK : https://gchq.github.io/CyberChef/
+  TAGS : cybersecurity, encryption, osint
+  NOTE : "The Cyber Swiss Army Knife". Decrypt and convert encoded strings. Great for OSINT.
+
+Nassia Inglessis | Studio INI
+  DATE : 12020-11-19
+  TAGS : architecture, installation, interactive art, art
+  TYPE : list
+  LINK : https://www.nassia-inglessis.com/
+  NOTE : Artist / Engineer making public installations that focus on material & interactivity without electronics. Education from Oxford, Pratt Institute, RCA, and MIT.
+
+COOKING ON A BUDGET
+  DATE : 12020-11-19
+  TAGS : cooking, personal finance
+  TYPE : 
 `
