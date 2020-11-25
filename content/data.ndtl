@@ -1170,6 +1170,13 @@ Tetsuya Mizuguchi
   TAGS : game design, individual, sound design, synesthesia, japan
   NOTE : Japanese game designer who excels at interactive sound design.
 
+Tetris Effect: Downtown Jazz
+  DATE : 12020-11-25
+  LINK : https://www.youtube.com/watch?v=vQe87jiJwIg
+  TYPE : video
+  TAGS : game design, sound design, synesthesia, music, jazz
+  NOTE : A game by Tetsuya Mizuguchi; integrating sound design and an independent game loop, so that while the player can play the game as a regular tetris game, this player here played it as an instrument, throwing excessive actions that doesn't contribute to winning the game, but as musical expression. Check out how they played toward the end.
+
 Point, Reason, Example, Summary
   DATE : 12018-11-19
   LINK : https://www.themuse.com/advice/3-smart-ways-to-keep-yourself-from-rambling
@@ -2104,7 +2111,9 @@ CELESTE LEVEL DESIGN
 
 https://ncase.me/anxiety/
 
-https://www.youtube.com/watch?v=jKbH9i5axxU
+NieR:Automata postmortem
+  TAGS : game design, postmortem
+  LINK : https://www.youtube.com/watch?v=jKbH9i5axxU
 
 Zettelkästen
   LINK : https://clerestory.netlify.com/zk/
@@ -2180,8 +2189,6 @@ XELNATH
   TYPE : list
   TAGS : individual, game design
   NOTE : Game designer who worked at Blizzard, Riot, and Moon Studios (Ori).
-
-https://clerestory.netlify.com/zk/
 
 KINECT HUMAN INTERFACE GUIDELINES
   LINK : http://download.microsoft.com/download/6/7/6/676611b4-1982-47a4-a42e-4cf84e1095a8/kinecthig.2.0.pdf
@@ -2270,7 +2277,19 @@ DOSOJIN MATSURI SONG
   TAGS : japanese food, food, recipes, cooking, chicken
   NOTE : Chicken wing with bone removed, and stuffed with spicy fish roe.
 
-https://www.youtube.com/watch?v=jKMNIB9sk18
+2-5-1 warmup exercises that sound good
+  DATE : 12020-11-25
+  TYPE : video
+  PERS : Nahre Sol
+  LINK : https://www.youtube.com/watch?v=jKMNIB9sk18
+  TAGS : exercise, music, piano
+  NOTE
+    > 2-5-1 Arpeggio exercises that use extensions to connect the chords, and form pleasant-sounding lines. Demonstrated on piano, but can be adapted to other instruments.
+    > The Figure Eight
+    > The Outer Ripples
+    > The Cascading Beads
+    > The Left-hand Lateral
+    > The Curled Chains
 
 https://forum.arduino.cc/index.php?topic=396450
 
@@ -2368,7 +2387,12 @@ SPICE INDEX
   LINK : https://web.archive.org/web/20160315013057/http:/gernot-katzers-spice-pages.com/engl/spice_small.html
   NOTE : Spices of the world, their names in other languages, and culinary info. Also indexes them by geography, botanical, parts of the plant used, and spice mixtures.
 
-https://librivox.org/
+LibriVox
+  LINK : https://librivox.org/
+  TYPE : tool
+  NOTE : Free public domain audiobooks.
+  DATE : 12020-11-25
+  TAGS : audiobook, book, library, public domain
 
 BOKASHI BIN
   DATE : 12020-11-19
@@ -2495,7 +2519,9 @@ Boardgame Lab
   TAGS : game design, board game, prototyping
   NOTE : Web-based prototyping tool for boardgames.
 
-https://www.youtube.com/watch?v=QHHg99hwQGY
+Magic the Gathering: Twenty Years, Twenty Lessons Learned
+  LINK : https://www.youtube.com/watch?v=QHHg99hwQGY
+  TAGS : game design, card game, postmortem
 
 https://markrosewater.tumblr.com/
 
