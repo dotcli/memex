@@ -2252,7 +2252,7 @@ THE POTTER AND THE CLAY
 DOSOJIN MATSURI SONG
   DATE : 12020-01-19
   TYPE : music
-  TAGS : japan, folk, tradition, festival
+  TAGS : japan, folk, tradition, festival, fire festival
   LINK : https://www.youtube.com/watch?v=eyB8sxAE4q4
   QOTE
     > 目出度く建てた　命あるなら来年も
@@ -2826,36 +2826,69 @@ John Scofield and horn solos
   NOTE : Funky alternative electronica. Inspired by Astro Boy.
 
 走入博尔赫斯的迷宫
+  DATE : 12021-01-31
+  TYPE : article
+  TAGS : writing, poetry, dream, abstract, surreal
   LINK : https://shud.in/posts/labyrinth-of-borges
+  QOTE : "我遇到一面刻着我无法阅读的长诗的断碑，与它一同保持心照不宣的沉默。"
 
 Rouketopolemos
+  DATE : 12021-01-31
   LINK : https://en.wikipedia.org/wiki/Rouketopolemos
+  TYPE : article
+  TAGS : festival, tradition, greece, fire festival, chios
+  NOTE : An Easter tradition on the Greek island Chios, where villagers shoot rockets at each other. Reminds me of Dosojin Matsuri.
+
+MASTIC
+  DATE : 12021-01-31
+  LINK : https://en.wikipedia.org/wiki/Mastic_(plant_resin)
+  TYPE : article
+  TAGS : spice, food, greece, chios
+  NOTE : A resin spice produced almost exclusively in the island of Chios.
+  QOTE
+    > One of the earliest uses of mastic was as chewing gum; hence, the name.
+    > The mastic villages are fortress-like, out of sight from the sea, surrounded by high walls and with no doors at street level (meaning that the villages were entered only by ladders), in order to protect the sap from invaders.
 
 How Neuroscience Can Hack Your Brain's Potential
   LINK : https://www.youtube.com/watch?v=qksd7aHGAUQ
 
 Upright Piano Action
+  DATE : 12021-01-31
   LINK : http://www.concertpitchpiano.com/UprightActionModel.html
+  TYPE : image
+  FILE : 12021-01-31_piano.gif
+  TAGS : piano, instrument
 
 HELL YEAH OR NO
   TYPE : book
+  TAGS : career
   LINK : https://sive.rs/n
 
 HAYAO MIYAZAKI'S CREATIVE PROCESS
+  TAGS : productivity, anime, creativity, japan
   LINK : https://subtlemaneuvers.substack.com/p/hayao-miyazaki-creativity-selfishness
 
 Practical Physics for Trumpeters and Teachers
+  TAGS : trumpet, instrument, physics
   LINK : https://www.everythingtrumpet.com/schilke/Practical_Physics.html
 
 TRUMPET PHYSICS WITH PROFESSOR John Harbaugh
+  TAGS : trumpet, instrument, physics
   LINK : https://www.youtube.com/watch?v=MVs2G60-ilo
 
 CHINA: THE DISAPPEARING MILLIONAIRES
   LINK : https://www.arte.tv/en/videos/083456-000-A/china-the-disappearing-millionaires/
 
 HANDLING OVERLAPPING FREELANCE PROPOSALS
+  TYPE : forum
+  TAGS : freelancing, negotiation, business
   LINK : https://www.reddit.com/r/freelance/comments/1tjov4/how_to_handle_multiple_overlapping_proposal/
-
+  DATE : 12021-01-31
+  NOTE
+    > Raise your fees until you only have one client standing, or:
+    > Use the project money to hire others to help, or:
+    > Push the clients toward committing to working with you, by requesting a deposit.
+    > There's no universally correct approach. Make sure to gather information and consider each project comprehensively.
 
 JOSEPH DUCREUX
   LINK : https://en.wikipedia.org/wiki/Joseph_Ducreux
@@ -2873,15 +2906,20 @@ La Joueuse de tympanon
   NOTE : An automaton of Marie Antionette playing dulcimer, by David Roentgen. The mechanisms are hidden underneath Queen Marie's skirt.
 
 WORKING IN PUBLIC
+  LINK : https://www.goodreads.com/en/book/show/54140556
+  TAGS : open source, software
   TYPE : book
   PERS : Mike Nolan
+  DONE : false
 
 RISE OF THE ROBOTS
+  LINK : https://www.goodreads.com/book/show/22928874-rise-of-the-robots
   TYPE : book
   PERS : Mike Nolan
 
 WE ARE CUBA
   TYPE : book
+  LINK : https://www.goodreads.com/book/show/41962940-we-are-cuba
   PERS : Mike Nolan
 
 梦幻西游颐和园事件
@@ -2914,4 +2952,37 @@ Serph - feather (overdrive version)
   TAGS : electronica, japanese music, visualization, synesthesia, animation
   NOTE : A cacophony of colors, dancing organically, radiantly. The label held a contest for the MV, winning entry directed by Tarafu Otani (大谷たらふ). Obviously inspired by, and imo masterfully executed, Wassily Kandinsky's synesthetia.
 
+History of salt
+  DATE : 12021-01-30
+  LINK : https://en.wikipedia.org/wiki/History_of_salt
+  TYPE : article
+  TAGS : history, economics
+  NOTE
+    > Salt and the salt industry had HUGE implications for older human society. 盐商 is famously rich in China. The word "Salary" comes from the Latin word for salt. This is frankly one of the most fascinating subjects I've encountered!
+    > What makes salt unique is: it's probably the only life essentials back then, that's both a recurring need, and location-dependent. Therefore it encourages a monopoly to manufacture, and a large scale infrastructure to distribute.
+  QOTE
+    > Salt's ability to preserve food was a founding contributor to the development of civilization.
+    > Many salt roads, such as the via Salaria in Italy, had been established by the Bronze Age.
+    > Monopolies over salt production and trade were essential aspects of government revenue in imperial China and retained its significance until 20th century.
+    > Salt created and destroyed empires. The salt mines of Poland led to a vast kingdom in the 16th century, only to be demolished when Germans brought in sea salt (which most of the world considered superior to rock salt).
+    > In Britain, the suffix "-wich" in a placename means it was once a source of salt, as in Sandwich and Norwich.
+    > During the Indian independence movement, Mahatma Gandhi organized the Salt Satyagraha protest to demonstrate against the British salt tax.
+
+Junichi Akagawa
+  LINK : https://junichiakagawa.net/
+  TAGS : individual, generative, music, glitch
+
+Noble
+  DATE : 12021-01-31
+  TYPE : article
+  TAGS : japanese music, electronica, music, glitch
+  LINK : https://en.wikipedia.org/wiki/Noble_(record_label)
+  NOTE : Japanese record label specializing in experimental electronics music, with glitch, shoegaze, and ambient element. Artists include Serph, Kashiwa Daisuke, and World's End Girlfriend.
+
+使用 Typora 一次性搞定公众号写作与排版
+  TYPE : article
+  TAGS : wechat, productivity, writing
+  LINK : https://sspai.com/post/40524
+  DATE : 12021-01-31
+  NOTE : 用Typora进行写作后导出至HTML，然后富文本复制粘贴到公众号编辑器里即可完成。需要设置一下图片上传和文本格式CSS。
 `
