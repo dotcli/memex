@@ -386,7 +386,7 @@ TOP SLATE STAR CODEX
   LINK : http://slatestarcodex.com/top-posts/
   TYPE : list
   DATE : 12018-07-19
-  TAGS : psychology, society, research, philosophy
+  TAGS : psychology, sociology, research, philosophy
 
 STOCKS
   TYPE : quote
@@ -418,7 +418,7 @@ UNDER THE SKIN: J PETERSON
   LINK : https://youtu.be/r2S58rH0PAw?t=1h1m38s
   TYPE : podcast
   DATE : 12018-07-19
-  TAGS : society, psychology, philosophy
+  TAGS : sociology, psychology, philosophy
 
 UNNAMED REVERSE ENGINEERING PODCAST
   LINK : https://reverseengineering.libsyn.com/
@@ -514,7 +514,7 @@ PEOPLE WATCHING
   LINK : https://www.youtube.com/playlist?list=PL_saLI-LH-VrxFpFgk467Jn02i46arTyD
   TYPE : video
   DATE : 12018-08-17
-  TAGS : psychology, dating, pop culture, society
+  TAGS : psychology, dating, pop culture, sociology
 
 CABBIBO.IS
   LINK : http://cabbibo.is/
@@ -770,7 +770,7 @@ THE TRANSPARENT SOCIETY, CHAPTER 1
 
 THE EVOLUTION OF TRUST
   LINK : https://ncase.me/trust/
-  TAGS : society, psychology
+  TAGS : sociology, psychology
   TYPE : interactive
   DATE : 12018-07-28
   DONE : true
@@ -922,7 +922,7 @@ MOIRAI
   TYPE : game
   DONE : true
   LINK : https://www.pcgamer.com/a-brief-history-of-moirai-one-of-pcs-most-disturbing-games/
-  TAGS : game design, indie game, society
+  TAGS : game design, indie game, sociology
   NOTE
     I played this game twice, in 12013 &amp; 12017. In both playthroughs I let the previous player pass, refused to mercy-kill Julia, and the next player let me pass too.
     It subverts the expectation that characters you interact with in game are NPCs.
@@ -985,7 +985,7 @@ XIAOHAN ZHANG
 GEORGE ZISIADIS
   DATE : 12018-10-19
   TYPE : list
-  TAGS : individual, art, inspiration, san francisco, society
+  TAGS : individual, art, inspiration, san francisco, sociology
   LINK : http://www.georgezisiadis.com/
 
 Baku 麦
@@ -1046,7 +1046,7 @@ Using Anki to learn chords
   QOTE : "I would recommend putting in chord progressions (like in a normal song) rather than single chords. Also make sure to actually form the chords, either on the piano (definitely much better), or on the table (in a pinch). This will allow you to learn the chords in context and give your hands muscle memory, especially with common transitions."
   DATE : 12018-10-25
   TYPE : quote
-  TAGS : music, memory
+  TAGS : music, memory, music theory
 
 Effective Learning
   LINK : https://www.supermemo.com/en/articles/20rules
@@ -1092,7 +1092,7 @@ Categorizing creative systems
 
 Brainstorming Guidelines
   DATE : 12018-11-13
-  TAGS : psychology, society, ideation
+  TAGS : psychology, sociology, ideation
   TYPE : tool
   QOTE
     Go for quantity
@@ -1213,7 +1213,7 @@ What to Do If You Hate Small Talk
   QOTE
     "To those gifted enough to see properly, the whole world could be found in a single grain of sand."
     "Conversation is fundamentally a natural, organic occurance which happens to us, but cannot be created or shaped by us."
-  TAGS : psychology, society, conversation
+  TAGS : psychology, sociology, conversation
 
 Evangelion Directing Tricks
   LINK : https://www.youtube.com/watch?v=LnqluniiXyk
@@ -1228,7 +1228,7 @@ Gifts
   QOTE : Don't give a gift that will require further investment from the person receiving it. Unless it's something they've specifically asked for, it isn't a gift it's a burden.
   DATE : 12018-12-05
   TYPE : quote
-  TAGS : society, psychology
+  TAGS : sociology, psychology
 
 Voyager Images
   LINK : https://www.youtube.com/watch?v=ibByF9XPAPg
@@ -1321,7 +1321,7 @@ EMOTIONAL & ECONOMIC MICROSOLIDARITY
   LINK : http://richdecibels.com/stories/courage-before-hope/courage-before-hope.html
   DATE : 12018-12-19
   TYPE : article
-  TAGS : economy, society, psychology
+  TAGS : economy, sociology, psychology
   QOTE : "What to do in the last decade of the Anthropocene"
 
 HOW TO COMFORT SOMEONE WITH DEPRESSION
@@ -1382,7 +1382,7 @@ VR SCREEN SHAKE
 HISTORY OF BLUE PIGMENT
   TYPE : quote
   DATE : 12019-01-07
-  TAGS : color, history, science, society
+  TAGS : color, history, science, sociology
   QOTE
     "The only way to achieve a deep rich blue was by using a semi-precious stone, lapis lazuli, to produce a pigment known as ultramarine [...] To have one's portrait commissioned and painted with ultramarine blue was considered a great luxury. If a patron wanted blue, they were obliged to pay extra.
     "Blue and purple came to be associated with royalty because of their rarity."
@@ -1629,7 +1629,7 @@ MOCKERY
   TYPE : quote
   QOTE : "If they want to give you a name, take it, make it your own. Then they can’t hurt you with it anymore." - Tyrion Lannister
   DATE : 12019-05-06
-  TAGS : mockery, society, name, identity, philosophy
+  TAGS : mockery, sociology, name, identity, philosophy
 
 “Users want control” is a shoulder shrug
   TYPE : article
@@ -2051,14 +2051,14 @@ DEFCON
   LINK : https://www.youtube.com/watch?v=y6neDk_4XBs
   TYPE : game
   DATE : 12019-10-15
-  TAGS : politics, inspiration, society, nuclear, game theory, minimalism, war
+  TAGS : politics, inspiration, sociology, nuclear, game theory, minimalism, war
   NOTE : A nuclear war simulator. Research shows playing this game changes people's views on nuclear war, to become more pessimistic.
 
 TRUTH DECAY
   LINK : https://www.rand.org/research/projects/truth-decay.html
   DATE : 12019-10-15
   TYPE : article
-  TAGS : politics, information, society, research
+  TAGS : politics, information, sociology, research
   TERM
     > Truth Decay: The diminishing role of facts and data in American public life.
   QOTE
@@ -3049,5 +3049,55 @@ RUBEN FRO
   TAGS : individual, VFX, unity3d, photogrammetry
   NOTE : Developer & VFX artist. Tokyo-based. Worked on that Ital Tek video.
 
+LINGUS SOLO BREAKDOWN
+  LINK : https://www.youtube.com/watch?v=H5REJ1SXNDQ
+  TYPE : video
+  DATE : 12021-02-05
+  TAGS : jazz, improvisation, music theory, funk
+  DONE : false
+  NOTE
+    > David Bruce analyses Cory Henry's solo in Snarky Puppy - Lingus.
+    > Chords: 8 bar of Em Em Em Em C C Am F
+    > Shape-wise, the solo starts with slower, melodic lines, with lots of gaps, and played on the low end of the keyboard. Gradually it raises intensity, until the end where it's a continuous run of high trill-filled 16th notes.
+    > Cory Henry plays lots of chromatic, but at the end of reels back to the stable Minor Pentatonic scale with bluesy lick.
 
+中文家用游戏博物馆
+  LINK : http://famicn.com/
+
+NAKAGIN CAPSULE TOWER INTERIOR TOUR
+  DATE : 12021-02-08
+  TYPE : video
+  LINK : https://www.youtube.com/watch?v=sXRJE2caPNY
+  TAGS : minimalism, architecture, interior design, japan, metabolist architecture
+  NOTE : A tour of the capsule units inside Nakagin Capsule Tower. The idea of this metabolist architecture is that, each capsules are isolated units attached to the tower. If one unit is broken, it can be replaced anew without modifying the rest of the building.
+
+WHOLE EARTH CATALOG
+  LINK : https://en.wikipedia.org/wiki/Whole_Earth_Catalog
+
+FAIR COMPANIES
+  LINK : https://faircompanies.com/
+  TYPE : list
+  TAGS : minimalism, DIY
+
+monome
+  LINK : https://monome.org/
+
+LET'S GET LOST
+  TYPE : video
+  LINK : https://www.youtube.com/watch?v=6PGeOZqvISk
+  TAGS : film, documentary, jazz
+  DATE : 12021-02-09
+  NOTE : A documentary about the turbulent life of Chet Baker. It flows like jazz.
+
+CHET BAKER - PORTRAIT IN BLACK AND WHITE
+  LINK : https://www.youtube.com/watch?v=FI_dF6_e9_w
+  NOTE : Amazing elevation of energy in the solo. One of Chet's finest performance.
+  DATE : 12021-02-09
+  TAGS : trumpet, jazz
+  TYPE : music
+
+COZY WEB
+  DATE : 12021-02-10
+  TAGS : sociology, internet
+  LINK : https://maggieappleton.com/cozy-web/
 `
