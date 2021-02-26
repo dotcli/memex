@@ -332,7 +332,7 @@ LIBRARY GENESIS
   TAGS : book, library, download
 
 ZLibrary
-  LINK : https://b-ok.org/
+  LINK : https://z-lib.org/
   TYPE : tool
   DATE : 12019-08-09
   NOTE : Free e-books.
@@ -1930,7 +1930,7 @@ Why Do All Smartphones Look The Same?
 STEVE JOBS PRESENTATION FOR 1ST IPHONE
   LINK : https://www.youtube.com/watch?v=vN4U5FqrOdQ
   TYPE : video
-  TAGS : speech, speaking, presentation, ux, design, product design, apple
+  TAGS : speaking, presentation, ux, design, product design, apple
   DATE : 12019-09-26
   NOTE : Lots to learn about creating tension, anticipation; also lots to learn about the design thinking behind iPhone, and what makes it different from other devices at the time.
 
@@ -3100,4 +3100,108 @@ COZY WEB
   DATE : 12021-02-10
   TAGS : sociology, internet
   LINK : https://maggieappleton.com/cozy-web/
+
+INTERACTIVE CHORD WHEEL
+  TYPE : interactive
+  LINK : https://codepen.io/2kool2/full/bmVxpZ
+  NOTE : Chord wheel that shows you diatonic chords in major key, and their extended chord qualities. Can use this for analyzing & transposing.
+  TAGS : music theory, music, chord
+  DATE : 12021-02-10
+
+MNEMONIC MAJOR SYSTEM
+  LINK : https://en.wikipedia.org/wiki/Mnemonic_major_system
+
+CHEAP BUT GOOD ADVICE FROM CHICK COREA
+  LINK : https://www.reddit.com/r/Jazz/comments/litpzk/cheap_but_good_advice_from_chick_corea_rip/
+
+WHAT IS MUSIC?
+  LINK : https://whatismusic.info/blog/index.html
+  TYPE : list
+
+Adriano Celentano - Prisencolinensinainciusol
+  TYPE : music
+  DATE : 12021-02-16
+  LINK : https://www.youtube.com/watch?v=-VsmF9m_Nt8
+  TAGS : language, conlang, english, gibberish
+  NOTE : A song that's sang in a made-up language that sounds like english.
+
+Wynton Marsalis Septet - The Death of Jazz (The New Orleans Function)
+  DATE : 12021-02-26
+  TYPE : music
+  TAGS : jazz, trumpet, trombone
+  LINK : https://www.youtube.com/watch?v=gKHM53iv2VI
+  NOTE
+    > The song is in the form of a 12 bar blues, dramatically slow, and uses the motif from Marche Funèbre (6-6-6-1-77-66-56).
+    > The septet consists of trumpet, trombone, clarinet, sax, piano, bass, and drum. The bass is played with a bow in this song.
+    > (1:00) Wycliffe Gordon's trombone playing is out of this world. Extremely varied and expressive, making it weep and growl.
+    > (4:29) Victor Goines's clarinet makes use of wailing upward glissando. (5:40) He also shows how even just one continuous note across many bars can have so much variation and expression.
+    > (8:50) Wynton Marsalis threw rapidfire note clusters out of his trumpet (9:38). It's almost atonal - understood as texture and rhythm rather than melody. Spliced between calmer melodic lines, like bursts of grief and outrage - or a joke?
+
+Göbekli Tepe
+  LINK : https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe
+
+THREE RULES OF THREE
+  LINK : https://www.youtube.com/watch?v=rrOnk0JnXW4
+  DATE : 12021-02-18
+  TYPE : lecture
+  TAGS : communication, learning, speaking, presentation
+  NOTE : Alan Alda, who does not like tips, gives tips on communication.
+  QOTE
+    > When speaking, communicate no more than three points to your audience. More than that, and they will forget.
+    > Explain a difficult thing in three different ways. People learn in different ways - visual, aural, kinesthetic. Present the information in different ways to cover different audiences.
+    > To make sure they remember something, say it three times. "Tell them what you are going to tell them, then tell them, then tell them again."
+    > Fourth tip: Just remembering these tips aren't going to make you a better communicator. That transformation is a process, like going to the gym.
+    > "we're built to connect with another person. In spite of the fact that we often avoid it, it actually is fun when we get into that position."
+
+THE MOTHER OF ALL DEMOS
+  LINK : https://en.wikipedia.org/wiki/The_Mother_of_All_Demos
+
+Mutsuacen
+  TYPE : interactive
+  LINK : https://mutsuacen.com/drawing/56743931
+
+Joni Mitchell - The Dawntreader
+  DATE : 12021-02-19
+  TAGS : guitar, dream, sailing
+  LINK : https://www.youtube.com/watch?v=zQwVeu09VCQ
+  TYPE : music
+  NOTE
+    > Sea dreams.
+    > Joni Mitchell's songs explore many alternative tunings on guitar, and quartal & quintal harmonies.
+
+LIEU - WEBRING SEARCH ENGINE
+  LINK : https://lieu.cblgh.org/
+  TYPE : tool
+  NOTE : Search engine for Merveilles' webring. Made by cblgh.
+  PERS : cblgh
+  SRCE : Merveilles
+  TAGS : decentralization, web, community, webring
+  DATE : 12021-02-25
+
+RETURNEES 海归
+  LINK : https://gueorgui.net/projects/returnees/
+  SRCE : Merveilles
+  NOTE : Photography series and accompanying article on Chinese folks who studied abroad.
+  QOTE
+    > "I spent the summer of 2018 in Beijing, interviewing and photographing Chinese citizens who had spent a few years abroad before returning to live in China. The people I spoke with — mostly young adults — came back to a country that’s experiencing transformative growth that mirrors the one in their own lives."
+  TAGS : globalism, culture, sociology, photography, writing
+  TYPE : article
+  DATE : 12021-02-25
+
+十宅论
+  TYPE : book
+  DATE : 12021-02-25
+  TAGS : architecture, japan, sociology
+  NOTE : A very mean and exaggerated book about castes in japanese society, and the space they live in. By Kengo Kuma.
+
+TRIGGER WARNING WITH KILLER MIKE
+  LINK : https://www.youtube.com/watch?v=JW79j81iLDI
+  NOTE : Documentary by the rapper Killer Mike, where he takes a "what if...?" and "why not?" approach to taboo subjects such as religion, education, black community, and more.
+  DATE : 12021-02-26
+  TYPE : video
+  TAGS : documentary, netflix, sociology, religion, black community
+
+FOLDED LEVEL DESIGN
+  LINK : http://critical-gaming.com/blog/2008/8/5/folded-level-design.html
+  TAGS : game design, level design
 `
