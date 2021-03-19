@@ -3216,4 +3216,22 @@ INTERACTIVE GIT CHEATSHEET
   DATE : 12021-03-03
   LINK : https://www.ndpsoftware.com/git-cheatsheet.html
   NOTE : Interactive explanation of different concepts and commands of git. Available in many languages.
+
+OVERVIEW OF CLUSTERING METHODS
+  LINK : https://scikit-learn.org/stable/modules/clustering.html
+  TYPE : list
+  TAGS : machine learning, statistics, python
+  NOTE : Comparison and explanation of how different clustering algorithms work. By Scikit-learn.
+  PERS : Josh Miller
+  DATE : 12021-03-12
+
+TAK
+  LINK : https://en.wikipedia.org/wiki/Tak_(game)
+
+NEW BAI WORDS 新白文
+  LINK : https://www.peishan-huang.com/bai-words
+  DATE : 12021-03-20
+  TAGS : bai people, minority, china, yunnan, language, writing system, art
+  NOTE : Reinvented Bai writing system. The language itself has became oral-only.
+  TYPE : article
 `
