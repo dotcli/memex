@@ -176,7 +176,7 @@ NIKITA VOLOBOEV
   LINK : https://wiki.nikitavoloboev.xyz/
   TYPE : list
   DATE : 12018-07-19
-  TAGS : philosophy, productivity, individual, merveilles
+  TAGS : philosophy, productivity, individual, merveilles, wiki
 
 KILL SIX BILLION DEMONS
   LINK : https://killsixbilliondemons.com/comic/kill-six-billion-demons-chapter-4/
@@ -210,7 +210,7 @@ FRATH WIKI
   LINK : http://www.frathwiki.com/Main_Page
   TYPE : list
   DATE : 12018-08-14
-  TAGS : worldbuilding, conlang, language
+  TAGS : worldbuilding, conlang, language, wiki
   NOTE : Conlang / conworld resource
 
 UNIVERSAL PAPERCLIPS
@@ -430,7 +430,7 @@ SCP FOUNDATION
   LINK : http://www.scp-wiki.net/
   TYPE : list
   DATE : 12018-07-19
-  TAGS : fiction, science
+  TAGS : fiction, science, wiki
 
 TENDRILS OF MESS IN OUR BRAINS
   LINK : https://www.ribbonfarm.com/2017/01/05/tendrils-of-mess-in-our-brains/
@@ -3257,4 +3257,42 @@ Reverse CAVE for shareable VR experience
 
 Electronic Visualization Laboratory (EVL)
   LINK : https://www.youtube.com/channel/UC3GTGwIcQfqqMS-Wt9uMwyQ
+
+100万回生きたねこ
+  TYPE : book
+  LINK : https://www.goodreads.com/book/show/2212982.100_
+  NOTE : A children's book with depth. Much sadness.
+
+THE HOLLOW MAN
+  TYPE : article
+  DATE : 12021-03-30
+  TAGS : poetry
+  LINK : https://allpoetry.com/the-hollow-men
+  NOTE : By T. S. Eliot.
+  QOTE
+    > This is the way the world ends
+    > This is the way the world ends
+    > This is the way the world ends
+    > Not with a bang but a whimper.
+
+Encyclopédie | The Encyclopedia of Diderot & d'Alembert
+  LINK : https://quod.lib.umich.edu/d/did/
+  TYPE : list
+  DATE : 12021-03-30
+  TAGS : philosophy, wiki, french revolution
+  NOTE : Many French philosophers wrote in this book. Translated to English and hosted by University of Michigan.
+
+Johnny Cash - Everybody Loves A Nut
+  TYPE : music
+  DATE : 12021-03-30
+  TAGS : comedy, folk, country music
+  LINK : https://www.youtube.com/watch?v=ucEXM2R3T00
+  NOTE : The most comedic of Johnny Cash albums.
+
+VKHUTEMAS
+  LINK : https://en.wikipedia.org/wiki/Vkhutemas
+  TAGS : architecture, russia, modernism
+  DATE : 12021-04-01
+  TYPE : article
+  DONE : false
 `
