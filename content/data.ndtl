@@ -3277,7 +3277,7 @@ THE HOLLOW MAN
 
 Encyclopédie | The Encyclopedia of Diderot & d'Alembert
   LINK : https://quod.lib.umich.edu/d/did/
-  TYPE : list
+  TYPE : book
   DATE : 12021-03-30
   TAGS : philosophy, wiki, french revolution
   NOTE : Many French philosophers wrote in this book. Translated to English and hosted by University of Michigan.
@@ -3295,4 +3295,28 @@ VKHUTEMAS
   DATE : 12021-04-01
   TYPE : article
   DONE : false
+
+MAP OF REDDIT
+  LINK : https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=615624.4584051393
+  TYPE : interactive
+
+The Work of Art in the Age of Mechanical Reproduction
+  LINK : https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction
+
+Wycliffe Gordon Warming Up
+  LINK : https://www.youtube.com/watch?v=GQewbJHweRk
+
+HATE CRIMES AGAINST ASIAN AMERICANS
+  LINK : Hate Crimes against Asian Americans
+  TYPE : article
+  NOTE
+    > A paper studying hate crimes against Asian Americans. It uses data from 1992 to 2014. Also compares Asian hate crime against black and hispanic ones.
+    > Offenders are most likely to be male and young. Victims are most likely to be male, young, and a local resident of the neighborhood. This is true across all hate crimes.
+    > 95% of all hate crime offenders (regardless of victim race) are white, and 5% non-white.
+    > Anti-Asian hate crimes differ in that they are more likely to be committed by non-white offenders. 75% of anti-asian hate crimes are by white offenders, 25% non-white. While for anti-black hate crimes, it's 99% white. Anti-hispanic hate crimes, 80% white.
+    > Neighborhoods with larger asian population tends to have more anti-asian hate crimes. They are also more likely to happen in Northeast region.
+    > Crimes against Hispanics tend to involve firearms more often than those against Asians.
+    > Asians are more likely to be target of hate crime in school than in their residence.
+  DATE : 12021-04-05
+  TAGS : sociology, racism, asian
 `
