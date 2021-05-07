@@ -367,14 +367,14 @@ INTERACTION DESIGN FUTURE
   TAGS : ux, design
 
 BREAKING SMART S1
-  LINK : https://breakingsmart.com/en/season-1-newsletter-archive/
+  LINK : https://breakingsmart.com/en/season-1/
   TYPE : list
   NOTE : Theme: "Software is Eating the World"
   TAGS : philosophy, technology, economy
   DATE : 12018-09-03
 
 BREAKING SMART S2
-  LINK : https://breakingsmart.com/en/season-2/season-2-newsletter-archive/
+  LINK : https://web.archive.org/web/20190504064024/https://breakingsmart.com/en/season-2/season-2-newsletter-archive/
   TYPE : list
   NOTE : Cyberpaleo aesthetics.
   TAGS : philosophy, technology, economy, psychology
@@ -460,7 +460,7 @@ WONDERBOOK
   TYPE : book
   NOTE : "The Illustrated Guide to Creating Imaginative Fiction."
   DATE : 12018-07-19
-  TAGS : art, design
+  TAGS : science fiction, writing, fiction
 
 VULTR
   LINK : https://www.vultr.com
@@ -3103,6 +3103,13 @@ COZY WEB
   TAGS : sociology, internet
   LINK : https://maggieappleton.com/cozy-web/
 
+THE EXTENDED INTERNET UNIVERSE
+  LINK : https://breakingsmart.substack.com/p/the-extended-internet-universe
+  TAGS : sociology, internet
+
+CHARTER CITIES INSTITUTE
+  LINK : https://www.chartercitiesinstitute.org/
+
 INTERACTIVE CHORD WHEEL
   TYPE : interactive
   LINK : https://codepen.io/2kool2/full/bmVxpZ
@@ -3319,4 +3326,66 @@ HATE CRIMES AGAINST ASIAN AMERICANS
     > Asians are more likely to be target of hate crime in school than in their residence.
   DATE : 12021-04-05
   TAGS : sociology, racism, asian
+
+OPTIMISM
+  DATE : 12021-04-06
+  TAGS : psychology, futurology, philosophy
+  TYPE : quote
+  QOTE : “Optimism is, in the first instance, a way of explaining failure, not prophesying success. It says that there is no fundamental barrier, no law of nature or supernatural decree, preventing progress.” - David Deutsch
+
+ROMAIN GAVRAS INTERVIEW ON HIS MUSIC VIDEO FOR JAMIE XX - GOSH
+  TYPE : article
+  DATE : 12021-04-09
+  TAGS : music video, albinism, china, cultural appropriation
+  QOTE : "I almost saw (the video) like a coming-of-age journey through a world where cultural appropriation became so insane that you need spirituality in order to elevate (yourself) from something where culture makes no sense."
+
+Kelli Anderson: Materials for Computer People
+  TYPE : lecture
+  DATE : 12021-04-23
+  TAGS : papercraft, DIY, art
+  NOTE
+    > (Bret Victor) Human v.s. computer. Humans' pattern recognition is a superpower that came from thousands of years of evolution.
+    > We comprehend physical logic much better because we are built to understand the world this way.
+    > Digital v.s. analog. People have different expectations toward them. Analog is inherently part of the reality. Programming the analog medium asks people to question reality.
+    > Paper is similar to computer in that it's binary. Either folded or not folded. And the folds make it so the forces applied to it behave differently - gets drawn toward the fold.
+
+FREQUENCY ILLUSION
+  LINK : https://en.m.wikipedia.org/wiki/Frequency_illusion
+  TAGS : psychology, cognitive bias
+
+KELLI ANDERSON
+  LINK : https://kellianderson.com/blog/
+  TAGS : individual, book design, paper, animation
+  DATE : 12021-04-28
+
+PORTRAIT FROM THREAD
+  LINK : https://www.youtube.com/watch?v=UsbBSttaJos
+  TYPE : video
+  TAGS : DIY, generative, art
+  DATE : 12021-05-01
+  NOTE : Thread portrait with the placements calculated algorithmically. Could make for a cool workshop.
+
+THE WAVES
+  LINK : https://www.youtube.com/watch?v=IC-21FjQs1E
+  TYPE : book
+  NOTE : Dramatic reading of The Waves, by Virginia Woolf. This dramatised adaption is created by Terence Davies, and broadcasted on BBC Radio 4.
+  TAGS : audiobook, literature, poetry
+  DATE : 12021-05-03
+
+PROBLEM WITH SONIFICATION
+  LINK : https://www.youtube.com/watch?v=Ocq3NeudsVk
+  TAGS : music, sonification, experimental music
+  NOTE : The aesthetic and musical expression of music made from non-musical data depends more on how the transformation is done, rather than the data itself.
+  DATE : 12021-05-05
+  TYPE : video
+
+WHY WEST AFRICA KEEPS INVENTING WRITING SYSTEMS
+  LINK : https://www.youtube.com/watch?v=xa8BYZrSTxY
+
+bit Generations: Coloris
+  TYPE : game
+  LINK : https://www.youtube.com/watch?v=Ktvz2p3aocs
+  TAGS : music, sound design, color theory
+  NOTE : Color-based tile-matching game, with sound design by Keigo Oyamada (aka Cornelius).
+  DATE : 12021-05-07
 `
