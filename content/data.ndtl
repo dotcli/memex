@@ -2407,7 +2407,7 @@ JANKO KEYBOARD
   DATE : 12020-03-14
   TYPE : interactive
   LINK : http://www.brandlew.com/keyboard/keys.htm?fundamental=261.6255653&right=2&upright=1&size=50&rotation=0&instrument=piano&enum=false&equivSteps=12&spectrum_colors=false&fundamental_color=41FF2E&no_labels=true&scale=!%2012-ed2%20Jank%C3%B3%206-6%20Balanced%20Symmetric%20Bilinear%20Uniform%20Keyboard%20~Halberstadt.scl%0A!%2012-tone%20equal%20tempered%20scale%20consisting%20of%2012%20sonically%20equal%20divisions%20per%20frequency%20halving%2Fdoubling%2C%20mapped%20on%20a%20(hexagonal)%20tilted%20Jank%C3%B3%20layout%20which%20can%20be%20regarded%20as%20a%20stacked%206-6%2FBalanced%2FSymmetric%2FBilinear%2FUniform%20Keyboard%2C%20and%20which%20approximates%20the%207-white%2F5-black%20Halberstadt%20organ%20layout%20(the%20classic%20piano%20keyboard).%0A!%0ATerpstra%20Keyboard%20WebApp%20%7C%2012-ed2%20Jank%C3%B3%20%2F%206-6%2FBalanced%2FSymmetric%2FBilinear%2FUniform%20Keyboard%20%2F%20~Halberstadt%0A12%0A!%0A100.00000%0A200.00000%0A300.00000%0A400.00000%0A500.00000%0A600.00000%0A700.00000%0A800.00000%0A900.00000%0A1000.00000%0A1100.00000%0A1200.00000&names=C%0AD%E2%99%AD%2FC%E2%99%AF%0AD%0AE%E2%99%AD%2FD%E2%99%AF%0AE%0AF%0AG%E2%99%AD%2FF%E2%99%AF%0AG%0AA%E2%99%AD%2FG%E2%99%AF%0AA%0AB%E2%99%AD%2FA%E2%99%AF%0AB&note_colors=ffffff%0A7b7b7b%0Affffff%0A7b7b7b%0Affffff%0Affffff%0A7b7b7b%0Affffff%0A7b7b7b%0Affffff%0A7b7b7b%0Affffff
-  TAGS : music, music theory, instrument, design, psychology, keyboard
+  TAGS : music, music theory, instrument, design, psychology, keyboard, microtonal
   NOTE : Alternative piano layout. The site itself is also interesting - seem to be able to generate customizable microtonal keyboards laid out in a hexagonal grid.
 
 Fast SRT subtitles
@@ -3395,4 +3395,42 @@ MOONLIGHT IN VERMONT
   TAGS : jazz, vocal, haiku, poetry
   NOTE : Unlike most songs, the lines in this song does not rhyme. The verses were also structured as haiku. Painting a serene, impressionist picture.
   DATE : 12021-05-13
+
+A Call to Cryptographic Arms
+  DATE : 12021-05-23
+  LINK : https://cryptome.org/2012/12/assange-crypto-arms.htm
+  TYPE : article
+  NOTE : Excerpt from Cypherpunks: Freedom and the Future of the Internet, by Julian Assange.
+  QOTE
+    > The universe believes in encryption... we could use this strange property to create the laws of a new world.
+
+XENPAPER
+  DATE : 12021-05-25
+  LINK : http://xenpaper.com/
+  NOTE : Text-based microtonal sequencer.
+  TYPE : interactive
+  TAGS : microtonal, music, music theory
+
+1 AM
+  LINK : https://mikeyren.itch.io/1am
+  TYPE : game
+  TAGS : poetry, interactive story, productivity, inspiration, minimalism
+  NOTE : An ode to late night creativity. Playing it brought me back to my full time job days. Will I still have that craving for something novel, something inspiring, if I go back to having a full time job?
+  DATE : 12021-05-25
+
+华西村来了朝鲜女服务员 | North Korean Waitress in Huaxi Village
+  LINK : https://web.archive.org/web/20120804014814/http://www.infzm.com/content/79132
+  TAGS : china, north korea, sociology, geopolitics
+  NOTE : North Korean waitresses sent to Huaxi village, a controversial "model village" in China, to work in their hotel.
+  DATE : 12021-05-26
+  TYPE : article
+
+CHANGBAI MOUNTAIN'S UNUSUAL VOLCANIC MECHANISM
+  LINK : https://www.youtube.com/watch?v=3C2HVOB-g5s
+  TYPE : video
+  DATE : 12021-05-28
+  TAGS : geology, plate tectonics, volcano
+  NOTE
+    > Changbai mountain had the second most devastating eruption in human history back in 946. The way this volcano is formed is much unusual.
+    > Most volcanos are either caused by continental plates subducting (Japan), or plumes rising from the core (Hawaii). Changbai mountain however had a plume that rose from a piece of the ancient Pacific Plate, that got stuck between the lower and upper mantles. The water trapped in the oceanic plate are pushed out of the rocks as the plate bent itself, forming a mantle that rises slowly to the surface.
 `
