@@ -884,7 +884,7 @@ Sarah Vaughan - Misty
   TYPE : music
   DATE : 12018-09-10
   DONE : true
-  TAGS : industrial, inspiration, electronic
+  TAGS : music video, industrial, inspiration, electronic
   NOTE : Music video synchronizing the sound and the machines. Visual ASMR.
 
 起承转结 - 4 STEP LEVEL DESIGN
@@ -2670,7 +2670,7 @@ HOW NORMAL AM I?
   DATE : 12020-10-09
   TYPE : music
   LINK : https://www.youtube.com/watch?v=ZDykTjFFNIE
-  TAGS : visualization, synesthesia, animation, math rock, japanese music, minimalism
+  TAGS : music video, visualization, synesthesia, animation, math rock, japanese music, minimalism
   NOTE : Beautiful math rock composition with next-level synesthesia b&w visual that maps notes to shapes extensively.
 
 Jacob Collier Plays the Same Song In 18 Increasingly Complex Emotions
@@ -2951,7 +2951,7 @@ Serph - feather (overdrive version)
   LINK : https://www.youtube.com/watch?v=S4TYELJzTqI
   TYPE : music
   DATE : 12021-01-30
-  TAGS : electronica, japanese music, visualization, synesthesia, animation
+  TAGS : electronica, japanese music, visualization, synesthesia, animation, music video
   NOTE : A cacophony of colors, dancing organically, radiantly. The label held a contest for the MV, winning entry directed by Tarafu Otani (大谷たらふ). Obviously inspired by, and imo masterfully executed, Wassily Kandinsky's synesthetia.
 
 History of salt
@@ -3433,4 +3433,56 @@ CHANGBAI MOUNTAIN'S UNUSUAL VOLCANIC MECHANISM
   NOTE
     > Changbai mountain had the second most devastating eruption in human history back in 946. The way this volcano is formed is much unusual.
     > Most volcanos are either caused by continental plates subducting (Japan), or plumes rising from the core (Hawaii). Changbai mountain however had a plume that rose from a piece of the ancient Pacific Plate, that got stuck between the lower and upper mantles. The water trapped in the oceanic plate are pushed out of the rocks as the plate bent itself, forming a mantle that rises slowly to the surface.
+
+LIVING ROOT BRIDGE
+  LINK : https://en.wikipedia.org/wiki/Living_root_bridge
+  TYPE : article
+  DATE : 12021-06-01
+  TAGS : india, bridge, tree shaping, architecture, botany
+  NOTE : Suspension bridges formed by shaping the aerial roots of rubber fig. Common in southern Meghalaya, India.
+
+WHY I GOT FIRED
+  LINK : https://www.youtube.com/watch?v=uSm2VDgRIUs
+
+REAL LIFE LORD OF THE FLIES
+  LINK : https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months
+  NOTE : A real-life Lord of the Flies situation where six boys got shipwrecked for 15 months. It turned out very different from the book.
+
+Asking Hunter-Gatherers Life's Toughest Questions
+  LINK : https://www.youtube.com/watch?v=TAGjuRwx_Y8
+  NOTE : It's all about meat for them. They are also surprisingly practical. Not much religion - a full moon just means there'll be more light, and hunting gets difficult.
+
+I CAN GIVE YOU GATSBY
+  LINK : https://www.youtube.com/watch?v=NPyfAo3IckM
+  TYPE : video
+  DATE : 12021-06-16
+  NOTE : Japanese TV commercial with a city-pop song. Weird. Starring Takuya Kimura 木村拓哉.
+  TAGS : funny, commercial, disco, dance
+
+LITE - Echolocation
+  LINK : https://www.youtube.com/watch?v=tTVs1MoR2kA
+  TYPE : music
+  DATE : 12021-06-23
+  TAGS : music video, visualization, synesthesia, animation, math rock, japanese music
+
+THE CLEAN ARCHITECTURE
+  LINK : https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+
+LEAD QUICK START GUIDE
+  LINK : https://www.gamasutra.com/blogs/MikeActon/20141112/229942/Lead_Quick_Start_Guide.php
+  TAGS : leadership, game development
+
+WHY EVERY SINGLE ELEMENT OF SOLID IS WRONG
+  LINK : https://www.reddit.com/r/Unity3D/comments/mfeoho/an_example_unity_project_that_uses_a_solid/gso5hbo?utm_source=share&utm_medium=web2x&context=3
+  TYPE : forum
+  TAGS : code, software architecture, object oriented programming
+  NOTE
+    > Forum discussion on the tradeoffs of SOLID principle. Interesting discussion that reveals how people could misunderstand or misuse the principles, and what their true intended usages should be.
+    > Single Responsibility Principle: Really about separation of concern, and giving classes roles that are easy to understand.
+    > Open/Closed Principle: The principle says that classes (, etc...) should allow its behavior be extended without modifying its source code. But this is only useful when there's a high likelihood that the behavior _needs_ to be extended. With good version control practice, it's often less costly to just change the source code when behavior needs to be changed, and revert back and patch stuff in the rare cases when it needs to be changed back.
+    > Liskov Substitution Principle: Essentially it says that we should be able to replace a class with its subclass, and expect the program to still behave correctly. This is sensible and good because consistent expectations make it easier to reason about things.
+    > Interface Segregation Principle: Interfaces allow us to group relevant methods together, and give them a name that denotes their purpose. This principle calls for breaking apart large interfaces that do it all, into smaller interfaces with specific purposes. This makes sense, and can be thought of similarly to the Single Responsibility Principle - both exist to avoid "God Classes" or "God Interfaces", and make the code easier to understand. Thus, we need to keep the problem this principle intends to solve in mind.
+    > Dependency Injection: I must admit that I do not understand this principle.
+  DATE : 12021-07-08
+
 `
