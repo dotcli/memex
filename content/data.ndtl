@@ -3690,4 +3690,94 @@ CASTRATO
   NOTE : Castrato singers were castrated before puberty. Their range and voice is very unique due to the physiological oddity.
   QOTE
     > As the castrato's body grew, his lack of testosterone meant that his epiphyses (bone-joints) did not harden in the normal manner. Thus the limbs of the castrati often grew unusually long, as did their ribs. This, combined with intensive training, gave them unrivalled lung-power and breath capacity.
+
+Baader–Meinhof phenomenon
+  LINK : https://en.wikipedia.org/wiki/Frequency_illusion
+  TYPE : article
+  DATE : 12021-09-06
+  TAGS : psychology, cognitive bias
+  NOTE
+    > Also known as frequency illusion. After learning of something for the first time, you start running into it all the time, as if it suddenly starts occuring in your life frequently. In fact it's always been there, you just got better at noticing it.
+    > This exists for startups too, where once you start developing a product, you start seeing other similar attempts and competitors.
+
+INTERNET HOMESTEADING
+  LINK : https://hyperlink.academy/courses/internet-homesteading/22
+  TYPE : lecture
+  QOTE : "Build yourself a home on the internet (a website) with a toolchain you understand from the ground up."
+
+HYPERLINK ACADEMY
+  LINK : https://hyperlink.academy/courses
+  NOTE : Lots of niche but important goodies - anti-burnout artist spa, antifragile writing, worldbuilding, esoteric programming language theory.
+
+HAPPINESS LAB
+  LINK : https://www.happinesslab.fm/season-2-episodes/episode-1
+
+TAGTOOL
+  LINK : https://www.omai.at/tagtool/
+  TYPE : tool
+  NOTE : Live animating & painting tool, optimized for iPad.
+
+RESPONSIVE ENVIRONMENT
+  LINK : https://s-v-m.tumblr.com/post/97047933649/immersive-audiovisual-environments-ix
+
+BREWSTER KAHLE OF INTERNET ARCHIVE
+  LINK : https://www.sfchronicle.com/tech/article/He-founded-the-Internet-Archive-with-a-Utopian-16434559.php
+  TYPE : article
+  NOTE : Report and interview on Brewster Kahle, cofounder of the Internet Archive.
+  TAGS : internet, library
+  DATE : 12021-09-08
+
+Computation and the Fundamental Theory of Physics
+  LINK : https://www.youtube.com/watch?v=qoDZKlcdPNM
+  TYPE : video
+
+KEITH JARRETT - DANNY BOY
+  LINK : https://www.youtube.com/watch?v=C6tIzxmPCQE
+  TYPE : music
+  DATE : 12021-10-20
+  TAGS : irish, jazz, piano
+  NOTE : Soulful, gentle, and peaceful rendition of the Irish tune. Has official transcription.
+
+WHAT I LEARNED FROM 100 DAYS OF REJECTION
+  LINK : https://www.youtube.com/watch?v=-vZXgApsPCQ
+  TYPE : video
+  DATE : 12021-10-20
+  TAGS : inspiration, motivation, rejection, sociology
+  NOTE
+    > It’s not the rejection that defines you, but your reaction to it. 
+    > Rejection therapy can let you overcome the fear of rejections.
+    > If you mention the other person’s doubt and concerns first, then they would have a more collaborative demeanour.
+    > Don’t run away when rejected. Stay and engage. Ask why.
+
+PROGRAMMING PROJECTS WITH INCREMENTING DIFFICULTY
+  NOTE
+    > A list of programming projects to teach different techniques in game programming. Great for learning and for teaching students.
+    > Originally posted by reddit user "_MadK", who has since deleted their account.
+  LINK : https://www.reddit.com/r/gamedev/comments/1bc8tz/looking_for_resources_for_java_game_programming/
+  TYPE : forum
+  DATE : 12021-10-27
+  TAGS : game development, code
+  QOTE
+    > Text-based adventure [Key topics: basic i/o, basic code structure]
+    > Conway's Game of Life [Key topics: cellular automata, arrays, mouse input, simple rendering]
+    > Tetris [Key topics: basic collisions, keyboard input, slightly less simple rendering]
+    > Snake [Key topics: linked lists]
+    > Asteroids [Key topics: trigonometry, slightly less basic collisions]
+    > Minesweeper [Key topics: flood fill]
+    > Sudoku [Key topics: basic procedural generation]
+    > Tile-based editor [Key topics: file access, gui creation]
+    > Perlin noise algorithm [Key topics: advanced procedural generation]
+    > A* algorithm [Key topics: pathfinding]
+    > Galcon [Key topics: basic AI]
+    > Brainfuck interpreter [Key topics: basic parsing]
+    > Hash table [Key topics: atypical applications of linked lists, data structures]
+    > Splayed binary search tree [Key topics: advanced data structures]
+    > XML parser [Key topics: slightly more advanced parsing, practical applications of complex data structures]
+    > Falling sand game [Key topics: practical applications of parsing, basic particle physics simulation, complex application of gui]
+    > Platformer game [Key topics: basic rigid body physics]
+    > Chess versus a computer opponent [Key topics: advanced AI]
+    > GIF saving & loading algorithm [Key topics: advanced file access, compression and decompression, bitwise arithmetic]
+    > Simple Lua/Python-driven game engine [Key topics: virtual machines, basic engine creation]
+    > Raycasting renderer [Key topics: pseudo-3D rendering]
+    > FPS [Key topics: 3D rendering, Basic 3D collisions]
 `
