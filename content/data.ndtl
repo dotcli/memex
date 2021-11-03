@@ -135,7 +135,7 @@ SCIENCE FICTION INTERFACES
   SRCE : Merveilles
   LINK : http://sciencefictioninterfaces.tumblr.com/
   TYPE : list
-  TAGS : design, inspiration, interface, sci-fi
+  TAGS : design, inspiration, interface, science fiction
   DATE : 12018-08-05
 
 MEAT
@@ -746,7 +746,7 @@ THE HOLY MOUNTAIN (1973)
 MAKE IT SO
   LINK : https://rosenfeldmedia.com/books/make-it-so/
   NOTE : Interaction design from science fiction
-  TAGS : UX, design, sci-fi
+  TAGS : UX, design, science fiction
   TYPE : book
   DATE : 12018-07-28
 
@@ -1017,7 +1017,7 @@ AKIRA (1988)
   TYPE : video
   NOTE : Ground-breaking anime film about a dystopian Tokyo 2020. Beautiful lighting animation.
   QOTE : “We know the future doesn’t necessarily proceed on a single course. There ought to be a future we can choose. It’s up to us to find it.” - Kyoko
-  TAGS : sci-fi, anime
+  TAGS : science fiction, anime
 
 NEW SCI-FI SUBGENRES
   DATE : 12018-10-20
@@ -1034,7 +1034,7 @@ NEW SCI-FI SUBGENRES
     > Kitchen Sink Dystopia: A story that seems wholly mundane and normal until something goes a bit wrong. “day to day debasement of Super Late Capitalism.”
     > Woke Space Opera: All the elements of spare opera, with a contemporary sociopolitical twist.
     > The New Weird: Time for some tentacles! The central characters often aren't wholly human. The mood is eerie and uneasy.
-  TAGS : sci-fi, literature
+  TAGS : science fiction, literature
 
 PAUL GRAHAM'S WRITING TIPS
   DATE : 12018-10-20
@@ -1065,7 +1065,7 @@ FLASH CARDS FOR GUITARIST
 Memories (1995)
   TYPE : video
   NOTE : 3 Sci-fi shorts by Japanese masters of anime.
-  TAGS : film, anime, art, sci-fi
+  TAGS : film, anime, art, science fiction
   DATE : 12018-10-29
 
 Categorizing creative systems
@@ -2165,7 +2165,7 @@ EIGHTH NOTE
 
 POUR COURTESY
   DATE : 12019-12-09
-  TAGS : DIY, hardware, humor, sci-fi
+  TAGS : DIY, hardware, humor, science fiction
   LINK : https://neurogadget.net/2015/01/16/mind-controlled-drinking-game-hitchhikers-guide-galaxy-becomes-reality/10683
   TYPE : article
   NOTE : Mind-controlled drinking game, just like Janx Spirit in The Hitchhiker's Guide to the Galaxy.
@@ -2299,7 +2299,7 @@ How to Build a Universe That Doesn’t Fall Apart Two Days Later
   DATE : 12020-01-29
   TYPE : article
   LINK : https://urbigenous.net/library/how_to_build.html
-  TAGS : sci-fi, writing, worldbuilding, philosophy
+  TAGS : science fiction, writing, worldbuilding, philosophy
   NOTE : Philip K. Dick, 1978
   QOTE
     > "Reality is that which, when you stop believing in it, doesn’t go away."
@@ -3798,4 +3798,28 @@ HASHIMA, JAPAN, 2002
 MEDIOCRATOPIA
   LINK : https://www.ribbonfarm.com/series/mediocratopia-2/
   NOTE : A series of essays on how to improve without trying too hard.
+
+USB PROBER
+  TYPE : tool
+  NOTE : Provides information about the device connected through USB, including message type. Part of the MacOS Developer Tools.
+
+SHANGHAI DISNEY FIREWORK DURING COVID LOCKDOWN
+  TYPE : video
+  LINK : https://www.reddit.com/r/evilbuildings/comments/ql1qa8/shanghais_disneyland_castles_fireworks_show/
+
+LITANY AGAINST FEAR
+  TYPE : quote
+  QOTE
+    > I must not fear.
+    > Fear is the mind-killer.
+    > Fear is the little death that brings total obliteration.
+    > I will face my fear.
+    > I will permit it to pass over me and through me.
+    > And when it has gone past I will turn the inner eye to see its path.
+    > Where the fear has gone there will be nothing.
+    > Only I will remain.
+  DATE : 12021-11-03
+  TAGS : philosophy, psychology, science fiction
+  LINK : https://dune.fandom.com/wiki/Litany_Against_Fear
+
 `
