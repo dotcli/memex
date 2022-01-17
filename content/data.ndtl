@@ -1311,11 +1311,13 @@ NOW PAGE
   NOTE : A "Now page" tells you what this person is focused on at this point in their life.
   QOTE : "Think of what you’d tell a friend you hadn’t seen in a year."
 
-CERBELLUM
-  LINK : https://kokorobot.ca/#cerbellum
+MINDBIRD
+  LINK : https://kokorobot.ca/site/mindbird.html
   DATE : 12018-12-16
   TYPE : book
+  PERS : Rekka Bellum
   TAGS : psychology, anxiety, art, illustration, comic
+  NOTE : Originally named Cerbellum.
 
 EMOTIONAL & ECONOMIC MICROSOLIDARITY
   LINK : http://richdecibels.com/stories/courage-before-hope/courage-before-hope.html
@@ -4067,4 +4069,44 @@ EUPHONE
   TYPE : video
   DATE : 12021-12-28
 
+TIXY.LAND
+  LINK : https://tixy.land/?code=%28t*5%2B256%29%25i-1
+  TYPE : interactive
+  NOTE : Minimal creative coding environment. Similar to shader programming.
+  DATE : 12021-12-28
+  TAGS : creative coding, web, shader, code golf
+
+Sultans of Swing
+  LINK : https://www.youtube.com/watch?v=sS1WYIu_gA4
+
+RAINS JACKET, COAT, AND BAG
+  LINK : https://www.us.rains.com/
+  NOTE : Waterproof fashion.
+  DATE : 12022-01-03
+
+李春平
+  LINK : https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%98%A5%E5%B9%B3
+  TAGS : individual, philanthropy, prostitution
+  DATE : 12022-01-03
+  NOTE : Chinese man who allegedly got rich by inheriting his Hollywood movie star lover's legacy.
+  TYPE : article
+
+POWERLANGUAGE
+  LINK : https://www.powerlanguage.co.uk/
+  TYPE : list
+  TAGS : individual, web
+
+SIMPLE THEREMIN DIY
+  LINK : https://www.instructables.com/Make-Your-Own-Simple-Theremin/
+  TYPE : article
+  NOTE : Simple theremin built with NAND IC and opamp. Works just like a real theremin, using your body as a capacitor.
+  DATE : 12022-01-09
+  TAGS : DIY, music, electronics
+
+A PICKLE FOR THE KNOWING ONES
+  LINK : https://www.gutenberg.org/files/43453/43453-h/43453-h.htm
+  TYPE : book
+  NOTE : Book by eccentric New England businessman, self-proclaimed "greatest philosopher in the Western World" Timothy Dexter.
+  DATE : 12022-01-17
+  TAGS : individual, funny
 `
