@@ -3628,6 +3628,8 @@ WILLIAM OF MOERBEKE
   TYPE : article
 
 KeePassXC
+  TAGS : cybersecurity, password, open source
+  DATE : 12022-02-07
   LINK : https://en.wikipedia.org/wiki/KeePassXC
   TYPE : tool
   NOTE : Free and Open Source password manager. Using alongside a sync service to access passwords on any device.
@@ -4190,5 +4192,33 @@ BULLET HOLES ON A PLANE
   NOTE : If we reinforce the plane where the bullet hole is, we would have followed the evidence (empiricism); but actually, the part where there is no bullet hole needs more reinforcement, because once the plane gets hit there, it would crash and not return for us to look at the bullet holes. This is often used as an example of survivorship bias, but also illustrates the role theories play in our interpretation of the evidences.
   DATE : 12022-02-06
   TAGS : psychology, philosophy
-  
+
+NOISE GAVE AI NIGHTMARES
+  LINK : https://twitter.com/stayfun_/status/1488004382620889091
+  TYPE : video
+
+REMOVE.BG
+  LINK : https://www.remove.bg/
+  TYPE : tool
+
+THINGIVERSE
+  LINK : https://www.thingiverse.com/
+  TAGS : 3d printing, DIY
+  TYPE : tool
+  NOTE : Model library for 3D printing.
+  DATE : 12022-02-17
+
+CHENG XU
+  LINK : http://www.1x1.design/
+  TYPE : list
+  DATE : 12022-02-17
+  TAGS : individual, maker, art
+  NOTE : Wuhan maker in America. Anti-HR.
+
+ROBERT BOSCH
+  LINK : https://en.wikipedia.org/wiki/Robert_Bosch
+  TYPE : article
+  TAGS : individual, business, industrialist, inventor, history, german, WWII
+  DATE : 12022-02-17
+  NOTE : German industrialist and inventor. Active during Nazi regime, employing forced laborers while supporting the resistance.
 `
