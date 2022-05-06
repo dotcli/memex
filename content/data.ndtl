@@ -2475,7 +2475,7 @@ SOUND SHAPES
 
 CHIUNE SUGIHARA
   LINK : https://en.wikipedia.org/wiki/Chiune_Sugihara
-  TAGS : individual, history, japan, jewish, WW2
+  TAGS : individual, history, japan, jewish, WW2, nazi germany
   DATE : 12020-05-05
   TYPE : article
   NOTE : Japanese diplomat who slipped 6000 jews away under the eyes of Nazi Germany during World War 2.
@@ -4220,7 +4220,7 @@ CHENG XU
 ROBERT BOSCH
   LINK : https://en.wikipedia.org/wiki/Robert_Bosch
   TYPE : article
-  TAGS : individual, business, industrialist, inventor, history, german, WW2
+  TAGS : individual, business, industrialist, inventor, history, german, WW2, nazi germany
   DATE : 12022-02-17
   NOTE : German industrialist and inventor. Active during Nazi regime, employing forced laborers while supporting the resistance.
   QOTE : "Never forget your humanity, and respect human dignity in your dealings with others." - Robert Bosch, 1920
@@ -4470,4 +4470,148 @@ Chun Song
   TAGS : individual, design, art, maker
   DATE : 12022-04-11
   TYPE : list
+
+BITFONTS
+  LINK : https://robhagemans.github.io/monobit/
+  TYPE : tool
+  DATE : 12022-04-20
+  SRCE : Merveilles
+  NOTE : Collection of bitmap fonts from old computers, systems, and arcade games.
+  TAGS : font, bitmap font, retrocomputing, arcade
+
+David Deutsch on AGI
+  LINK : https://www.youtube.com/watch?v=01C3a4fL1m0
+  TYPE : lecture
+  DONE : false
+  DATE : 12022-04-22
+  NOTE
+    > David Deutsch points out that AGI are people; AGIs would have our unique capability of creating explanations, too.
+    > The worry that AGI would break free from our control is the same worry that we humans would think freely.
+    > Bayernism is limited by explanations; only when we have an explanatory model can we make accurate predictions.
+    > Popperian epistemology is much more powerful for unknown unknowns; we can create knowledge by way of conjecture and criticism.
+  QOTE
+    > Outcomes can't be analyzed in terms of probability unless we have specific explanatory models that predict that something is or can be approximated as a random process.
+
+Second order effects of the rise of large language models
+  DATE : 12022-05-06
+  LINK : https://twitter.com/russelljkaplan/status/1513128005828165634
+
+EFFECTIVE THESIS
+  LINK : https://effectivethesis.org/human-aligned-ai/
+  DATE : 12022-05-06
+  LINK : Research direction for human aligned AI. Has good, up-to-date links to research landscape & explanations.
+
+All-improv gig
+  DATE : 12022-05-06
+  LINK : https://www.youtube.com/watch?v=CUB4pMFEQhE
+  QOTE : "How do you improve upon something you don't care about?"
+
+Todo.txt
+  DATE : 12022-05-06
+  LINK : http://todotxt.org/
+  NOTE : Future-proof text-based task tracker
+
+Toki Pona Cheatsheet
+  DATE : 12022-05-06
+  LINK : https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf
+
+Ancient Handy Mnemonics
+  DATE : 12022-05-06
+  LINK : https://publicdomainreview.org/essay/handy-mnemonics
+
+Tailwind theme, template, UI kits
+  DATE : 12022-05-06
+  LINK : https://www.tailwindawesome.com/
+
+Writing Quickly with Epistemic Rigor
+  DATE : 12022-05-06
+  LINK : https://www.lesswrong.com/posts/Psr9tnQFuEXiuqGcR/how-to-write-quickly-while-maintaining-epistemic-rigor#It_s_About_The_Process__Not_The_Conclusion
+  SRCE : lesswrong
+  NOTE : Instead of avoiding posts in fear of having not done enough research that can justify your belief, focus on explaining why you currently believe it. Show the process.
+  QOTE
+    > Persuasion is a bad habit from high school.
+    > As much as possible, I want to show the actual process by which I reached that conclusion. If my process is good, this will better enable others to copy the best parts of it. If my process is bad, I can get feedback on it directly.
+
+Shadertoy to Unity
+  DATE : 12022-05-06
+  LINK : https://pema.dev/glsl2hlsl/
+
+Zotero
+  DATE : 12022-05-06
+  LINK : https://www.zotero.org/
+
+开智学堂「信息分析」 最小全局认知 - 寻找知识的源头在哪里，近五/十年最热门的讨论节点在哪里
+  DATE : 12022-05-06
+  LINK : https://github.com/AIViking/Value-investing/blob/master/%E4%BB%B7%E5%80%BC%E6%8A%95%E8%B5%84%E7%9A%84%E6%9C%80%E5%B0%8F%E5%85%A8%E5%B1%80%E8%AE%A4%E7%9F%A5.md 但是据JK说这篇其实做的一般
+
+Nikita Voloboev
+  DATE : 12022-05-06
+  LINK : https://wiki.nikiv.dev/
+
+Cathedral of Learning
+  DATE : 12022-05-06
+  LINK : https://en.wikipedia.org/wiki/Cathedral_of_Learning
+
+Technology
+  DATE : 12022-05-06
+  LINK : http://www.ursulakleguinarchive.com/Note-Technology.html
+  QOTE : Technology is the active human interface with the material world.
+  SRCE : merveilles
+  PERS : neauoire
+
+独立游戏人在线组队
+  DATE : 12022-05-06
+  LINK : https://docs.qq.com/sheet/DQkhzZEtuWmdzYlhT?u=6d96ce7d43444377890c9c93d8af4f68&tab=BB08J2&_t=1650886807559
+
+Hackerspace Variations
+  DATE : 12022-05-06
+  LINK : https://en.wikipedia.org/wiki/Hackerspace#Variations
+  NOTE : Some of the variations, such as workingmen's club, and tool library, can be considered as progenitors to the hackerspace movement and maker culture.
+
+Bright Green
+  DATE : 12022-05-06
+  LINK : https://en.wikipedia.org/wiki/Bright_green_environmentalism
+  TERM
+    > Light Green: Environmentalism as a personal responsibility; often as a lifestyle choice.
+    > Dark Green: Radical political change is the only solution. Protest! And stop making babies!
+    > Bright Green: Radical change is needed, but by innovation and regulation, instead of stopping or protesting.
+
+Unity Shader Basics
+  DATE : 12022-05-06
+  LINK : https://www.youtube.com/watch?v=kfM-yu0iQBk
+  NOTE : 3h lecture by the creator of Shaderforge.
+
+Be Realistic; Demand the impossible.
+  DATE : 12022-05-06
+  LINK : https://theconversation.com/be-realistic-demand-the-impossible-the-legacy-of-1968-87362
+
+Find songs by chord progression
+  DATE : 12022-05-06
+  LINK : https://www.chordgenome.com/search-common-chord-progressions/
+
+Germania
+  LINK : https://en.wikipedia.org/wiki/Germania_(city)
+  TAGS : architecture, ww2, nazi germany, berlin
+  QOTE : Germania was the projected renewal of the German capital Berlin during the Nazi period, part of Adolf Hitler's vision for the future of Nazi Germany after the planned victory in World War II.
+  NOTE : Designed by Albert Speer. Wolfenstein: New Order designed the alternate history Germania using historical blueprints.
+
+Schwerbelastungskörper
+  LINK : https://en.wikipedia.org/wiki/Schwerbelastungsk%C3%B6rper
+  NOTE : "heavy load-bearing body". A gigantic concrete cylinder constructed Albert Speer solely for testing how well Nazi Germany can build heavy monumental buildings in Berlin.
+  DATE : 12022-05-06
+  TAGS : architecture, ww2, nazi germany, berlin
+
+obake - ow
+  LINK : https://www.youtube.com/watch?v=ponUbgB1Fuk
+  NOTE : Photogrammetry music video. Creative distortions.
+  DATE : 12022-05-06
+  TAGS : photogrammetry, music, visualization
+  TYPE : video
+
+Polycam
+  TYPE : tool
+  LINK : https://poly.cam/
+  DATE : 12022-05-06
+  NOTE : Free iOS app for 3d Scans. Exports to textured .obj.
+  TAGS : photogrammetry, iOS
 `
