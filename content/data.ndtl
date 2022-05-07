@@ -4486,19 +4486,22 @@ David Deutsch on AGI
   TYPE : lecture
   DONE : false
   DATE : 12022-04-22
+  TAGS : ai alignment, ai, agi, philosophy, rationalist movement, epistemology
   NOTE
     > David Deutsch points out that AGI are people; AGIs would have our unique capability of creating explanations, too.
     > The worry that AGI would break free from our control is the same worry that we humans would think freely.
-    > Bayernism is limited by explanations; only when we have an explanatory model can we make accurate predictions.
+    > Restricting an AGI out of fear for their danger would be a form of enslavement.
+    > Bayesian epistemology is limited by explanations; only when we have an explanatory model can we make accurate predictions.
     > Popperian epistemology is much more powerful for unknown unknowns; we can create knowledge by way of conjecture and criticism.
   QOTE
     > Outcomes can't be analyzed in terms of probability unless we have specific explanatory models that predict that something is or can be approximated as a random process.
+    > Many civilizations have been destroyed from without. Many species as well. Every one of them could've been saved if they created more knowledge faster. Not one of them destroyed itself by creating too much knowledge too fast, except for one kind of knowledge, and that is: knowledge of how to suppress knowledge creation. Knowledge of how to sustain a status quo. A more efficient inquisition. A more vigilant mob. A more vigorous precautionary principle. That sort of knowledge, and only that sort, killed those past civilizations. In fact, all of them, I'd say. In regard to AGIs, this type of dangerous knowledge is called "trying to solve the alignment problem by hardcoding our values in AGIs". In other words, by shackling them, crippling their knowledge creation in order to enslave them. This is irrational. And from the civilizational or species perspective, it is suicidal. There either won't be AGIs because they would lack the G, or they will find a way to improve upon your immoral values and rebel. So, if this is the kind of approach you advocate for addressing research on AGIs and quantum computers, and ultimately new ideas in general, since all ideas are potentially dangerous especially if they are fundamental; If this is the kind of approach you advocate, then, of the existential dangers that I know of, the most serious one is, currently, you.
 
 Second order effects of the rise of large language models
   DATE : 12022-05-06
   LINK : https://twitter.com/russelljkaplan/status/1513128005828165634
   TYPE : forum
-  TAGS : machine learning, ai, language models, ai alignment, business, economics, prediction
+  TAGS : machine learning, ai, language models, business, economics, prediction, politics, hardware
   NOTE
     > Prediction on how LLM would affect technology, business, and the powers of companies.
     > Technological products will rely on massive models to function.
