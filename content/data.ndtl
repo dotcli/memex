@@ -787,7 +787,7 @@ NICKY CASE
 REGEXR
   LINK : https://regexr.com/
   TYPE : tool
-  TAGS : code
+  TAGS : code, regex
   DATE : 12018-07-28
   DONE : true
   NOTE : ReGex testing ground, explanation, and collection.
@@ -2763,7 +2763,7 @@ CYBERCHEF
   DATE : 12020-11-14
   TYPE : tool
   LINK : https://gchq.github.io/CyberChef/
-  TAGS : cybersecurity, encryption, osint
+  TAGS : cybersecurity, encryption, osint, regex
   NOTE : "The Cyber Swiss Army Knife". Decrypt and convert encoded strings. Great for OSINT.
 
 Nassia Inglessis | Studio INI
@@ -4680,4 +4680,66 @@ Polycam
   DATE : 12022-05-06
   NOTE : Free iOS app for 3d Scans. Exports to textured .obj.
   TAGS : photogrammetry, iOS
+
+Xcode Releases
+  TYPE : tool
+  LINK : https://xcodereleases.com/
+  NOTE : Faster Xcode download.
+  TAGS : code, mobile development, iOS
+  DATE : 12022-07-06
+
+Girl at a Bar - SNL
+  LINK : https://www.youtube.com/watch?v=kTMow_7H47Q
+  DATE : 12022-05-08
+  NOTE : When we ask ourselves, "why do we find it funny?", we reveal things about our culture and our thought process. In this sketch, the set up is the same whether the girl meets men or women, yet the joke is different.
+  TAGS : comedy, sketch comedy, gender, sociology
+  TYPE : video
+
+Rhizome (Boris Labbé, 2016)
+  LINK : https://www.youtube.com/watch?v=-uq-sA8Zf10
+  DATE : 12022-07-06
+  TAGS : animation, drawing
+  NOTE : Hand drawn animation art depicting form and scale.
+  TYPE : video
+
+iVisa
+  LINK : https://www.ivisa.com
+  NOTE : Quickly tells you traveling document requirements around the world.
+  TAGS : travel, visa, legal, digital nomad
+  TYPE : tool
+
+Hauntology
+  LINK : https://www.youtube.com/watch?v=gSvUqhZcbVg
+  NOTE : The idea that elements from the past returns and persists in the present, as in the manner of a ghost. Nostalgia for lost futures.
+  TAGS : philosophy, aesthetics
+
+Linking Your Thinking: Emergence Levels
+  LINK : https://twitter.com/nickmilo/status/1317190776284086272?lang=en
+  TYPE : forum
+
+EXPLAINSHELL
+  LINK : https://explainshell.com/
+  TYPE : tool
+  NOTE : Tool that dissects and explains shell commands.
+  TAGS : shell command, code, terminal
+  DATE : 12022-07-09
+
+EXCALIDRAW
+  LINK : https://excalidraw.com/
+  NOTE : Multiplayer virtual whiteboard. Good for diagraming.
+  TYPE : tool
+  DATE : 12022-07-09
+  TAGS : collaboration, productivity, explanation, visualization
+
+本居宣長
+  LINK : https://twitter.com/tkasasagi/status/1554289187884388352/photo/1
+  QOTE
+    > 「才のともしきや、学ぶ事の晩きや、暇のなきやによりて、思いくずをれて、止ることなかれ」
+    > "Don't let the light of your talent, the night of learning, or the lack of time leave you with a waste of your thoughts."
+  TYPE : forum
+  NOTE : When this PhD in Japanese literature started studying AI in 2017, this verse by Motoori Norinaga kept her going. She's now at Google Brain.
+  DATE : 12022-08-02
+  TAGS : motivation, philosophy, learning
+
 `
+
