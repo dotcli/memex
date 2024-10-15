@@ -11,8 +11,8 @@ Boredom
   TAGS : productivity
   DATE : 12018-07-26
   QOTE
-    When really bored and unmotivated, read a book.
-    When not motivated to read book, find interesting places around you and explore.
+    > When really bored and unmotivated, read a book.
+    > When not motivated to read book, find interesting places around you and explore.
   DONE : true
 
 THE TWINGE OF STARTING
@@ -183,7 +183,7 @@ KILL SIX BILLION DEMONS
   TYPE : book
   DATE : 12018-08-01
   TAGS : comic, worldbuilding
-  
+
 DINOTOPIA
   LINK : http://www.dinotopia.com/
   TYPE : book
@@ -602,7 +602,7 @@ STREISAND
   DATE : 12018-07-23
   TAGS : web, censorship, privacy
   NOTE : Tool to set up VPN using own server.
-  
+
 WHONIX
   LINK : https://www.whonix.org/
   TYPE : tool
@@ -1063,19 +1063,12 @@ Categorizing creative systems
   DONE : true
   QOTE
     1. Domain & Creative Task: Does it produce poetry? music? visual art? cinema? game? If it produces music, does it compose? perform? improvise?
-
     2. How specific or generic is the system. e.g. AARON's output has a very specific style, while the Continuator can imitate many styles of music. Often, artistic systems are more specific, while researching / scientific systems are more generic.
-
     3. Level of autonomy. How much human involvement is needed? AARON paints new paintings on demand without any human input, while the continuator only works with a human partner.
-
     4. Interactivity: if the system interacts with human, and in what way. Low level interactivity: the system only reacts to its input, like most apps with a GUI. A text editor interacts with you this way. High level interactivity: aka Agent Interaction, or Conversational Interactivity. the actions of the creative system affects the actions of the human.
-
     5. Time: The generative process can happen in real time, or ahead of time.
-
     6. Origin of the system's knowledge. Encoded Knowledge, Input Knowledge, and Knowledge learned - extracted from some input data.
-
     7. System's pattern of behavior, as if they are artificial lives. Christopher Langton's 4 classes of behavior. Fixed behavior: static output. Periodic behavior: system has recurrent behaviors. Chaotic behavior: no discernable patterns. Complex behavior: the sweet spot between Periodic and Chaotic behavior. Where we can find the most intelligent outputs. ˀ"Complex" here refers to the output of the system, not the complexity of the process. 
-
     8. Architecture of the system. Purely generative system takes some input, and then simply outputs. Feedback loop or reflexive system separates the generation and evaluation; the evaluation affects the generation. Interactive, or adaptive system, adds the audience, user, or environment of the output into feedback.
 
 Brainstorming Guidelines
@@ -1257,16 +1250,16 @@ A GROWING THING
     To grow, things must be removed
     Trim away the old leaves and dead Branches
     Of things you could have become
-
+    -
     Find new buds near old wounds
     Give them sunlight
     And water
     See what they blossom
-
+    -
     And do it all again
-
+    -
     Because
-
+    -
     We are made of broken things
     The mulch from which we emerge
     Is rich
@@ -3556,8 +3549,9 @@ SADISTIC MIKA BAND
   DATE : 12021-08-01
   NOTE : Japanese funk band in 1975, featuring the legendary guitarist Masayoshi Takanaka. And the very cute and spunky singer Mika Fukui.
 
-OUT AMAZING PLANET TOP TO BOTTOM
+OUR AMAZING PLANET TOP TO BOTTOM
   TAGS : geology, earth
+  LINK : https://www.livescience.com/27551-our-amazing-planet-top-to-bottom-mountaintop-to-ocean-trench-infographic.html
   DATE : 12021-08-02
   TYPE : image
   FILE : 12021-08-02_landsea.jpg
@@ -3590,16 +3584,16 @@ PORTRAIT OF MATILDE URRUTIA, BY DIEGO RIVERA
     thick smell of seaweed, crushed mud and light,
     what obscure brilliance opens between your columns?
     What ancient night does a man touch with his senses?
-
+    -
     Loving is a journey with water and with stars,
     with smothered air and abrupt storms of flour:
     loving is a clash of lightning-bolts
     and two bodies defeated by a single drop of honey.
-
+    -
     Kiss by kiss I move across your small infinity,
     your borders, your rivers, your tiny villages
     and the genital fire transformed into delight
-
+    -
     runs through the narrow pathways of the blood
     until it plunges down, like a dark carnation,
     until it is and is no more than a flash in the night.
@@ -4802,8 +4796,9 @@ Lactofermentation Methods
   LINK : https://grimgrains.com/site/lactofermentation.html#methods
   NOTE : Good reference page on lactofermentation. I used it for lockdown kimchi.
 
+Dry-salt Kimchi Recipe
   LINK : https://revolutionfermentation.com/en/blogs/fermented-vegetables/napa-vegan-kimchi-recipe/#recipe
-  NOTE : Dry-salt Kimchi recipe.
+  NOTE : Vegan.
 
 Rebecca Black - Friday (Remix)
   LINK : https://www.youtube.com/watch?v=iCFOcqsnc9Y
